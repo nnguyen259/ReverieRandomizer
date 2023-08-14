@@ -1,0 +1,3545 @@
+{
+    "0": {
+        "AniBtlCraft22": [
+            [
+                2000,
+                0,
+                0,
+                1,
+                0,
+                "AniBtlCraft22",
+                "True Crimson Slash"
+            ],
+            [
+                2010,
+                0,
+                0,
+                103,
+                0,
+                "AniBtlCraft22",
+                "Fierce Crimson Slash"
+            ]
+        ],
+        "AniBtlCraft26": [
+            [
+                2003,
+                0,
+                0,
+                1,
+                1,
+                "AniBtlCraft26",
+                "Waning Crescent Slash"
+            ],
+            [
+                2013,
+                0,
+                0,
+                112,
+                1,
+                "AniBtlCraft26",
+                "Fierce Waning Crescent Slash"
+            ]
+        ],
+        "AniBtlExCraft03": [
+            [
+                2001,
+                0,
+                0,
+                1,
+                2,
+                "AniBtlExCraft03",
+                "Arcane Gale"
+            ],
+            [
+                2011,
+                0,
+                0,
+                122,
+                2,
+                "AniBtlExCraft03",
+                "Fierce Arcane Gale"
+            ]
+        ],
+        "AniBtlCraft27": [
+            [
+                2004,
+                0,
+                0,
+                1,
+                3,
+                "AniBtlCraft27",
+                "True Helix"
+            ],
+            [
+                2014,
+                0,
+                0,
+                203,
+                3,
+                "AniBtlCraft27",
+                "Fierce Helix"
+            ]
+        ],
+        "AniBtlCraft22_1": [
+            [
+                4800,
+                0,
+                0,
+                -1,
+                0,
+                "AniBtlCraft22",
+                "Supreme Crimson Slash"
+            ],
+            [
+                4816,
+                0,
+                0,
+                -1,
+                0,
+                "AniBtlCraft22",
+                "Fatal Crimson Slash"
+            ]
+        ],
+        "AniBtlCraft26_1": [
+            [
+                4802,
+                0,
+                0,
+                -1,
+                1,
+                "AniBtlCraft26",
+                "Supreme Waning Crescent Slash"
+            ],
+            [
+                4818,
+                0,
+                0,
+                -1,
+                1,
+                "AniBtlCraft26",
+                "Fatal Waning Crescent Slash"
+            ]
+        ],
+        "AniBtlExCraft03_1": [
+            [
+                4801,
+                0,
+                0,
+                -1,
+                2,
+                "AniBtlExCraft03",
+                "Supreme Arcane Gale"
+            ],
+            [
+                4817,
+                0,
+                0,
+                -1,
+                2,
+                "AniBtlExCraft03",
+                "Fatal Infernal Gale"
+            ]
+        ],
+        "AniBtlCraft27_1": [
+            [
+                4803,
+                0,
+                0,
+                -1,
+                3,
+                "AniBtlCraft27",
+                "Supreme Helix"
+            ],
+            [
+                4819,
+                0,
+                0,
+                -1,
+                3,
+                "AniBtlCraft27",
+                "Fatal Helix"
+            ]
+        ]
+    },
+    "1": {
+        "AniBtlCraft30": [
+            [
+                2110,
+                1,
+                0,
+                1,
+                0,
+                "AniBtlCraft30",
+                "Rosetta Arrow"
+            ],
+            [
+                2120,
+                1,
+                0,
+                122,
+                0,
+                "AniBtlCraft30",
+                "Rosetta Arrow 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2112,
+                1,
+                0,
+                1,
+                3,
+                "AniBtlCraft02",
+                "Molten Storm 2"
+            ],
+            [
+                2122,
+                1,
+                0,
+                196,
+                3,
+                "AniBtlCraft02",
+                "Molten Storm 3"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2113,
+                1,
+                0,
+                1,
+                4,
+                "AniBtlCraft03",
+                "Heavenly Gift 2"
+            ],
+            [
+                2123,
+                1,
+                0,
+                0,
+                4,
+                "AniBtlCraft03",
+                "Heavenly Gift 3"
+            ]
+        ]
+    },
+    "2": {
+        "AniBtlCraft04": [
+            [
+                2204,
+                2,
+                0,
+                1,
+                1,
+                "AniBtlCraft04",
+                "Detector-α"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2212,
+                2,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Holy Song 2"
+            ],
+            [
+                2222,
+                2,
+                0,
+                123,
+                2,
+                "AniBtlCraft02",
+                "Holy Song 3"
+            ]
+        ],
+        "AniBtlCraft31": [
+            [
+                2211,
+                2,
+                0,
+                1,
+                3,
+                "AniBtlCraft31",
+                "Blue Oratorio"
+            ],
+            [
+                2221,
+                2,
+                0,
+                106,
+                3,
+                "AniBtlCraft31",
+                "Blue Oratorio 2"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2213,
+                2,
+                0,
+                1,
+                4,
+                "AniBtlCraft03",
+                "Nocturne Bell 2"
+            ],
+            [
+                2223,
+                2,
+                0,
+                0,
+                4,
+                "AniBtlCraft03",
+                "Nocturne Bell 3"
+            ]
+        ]
+    },
+    "3": {
+        "AniBtlCraft01": [
+            [
+                2311,
+                3,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "True Azure Cleaver"
+            ],
+            [
+                2321,
+                3,
+                0,
+                120,
+                1,
+                "AniBtlCraft01",
+                "Supreme Azure Cleaver"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2312,
+                3,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "True Radiant Spin"
+            ],
+            [
+                2322,
+                3,
+                0,
+                145,
+                2,
+                "AniBtlCraft02",
+                "Supreme Radiant Spin"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2313,
+                3,
+                0,
+                1,
+                4,
+                "AniBtlCraft03",
+                "True Radiant Wings"
+            ]
+        ],
+        "AniBtlCraft25": [
+            [
+                2315,
+                3,
+                0,
+                1,
+                3,
+                "AniBtlCraft25",
+                "True Lion Rush"
+            ],
+            [
+                2325,
+                3,
+                0,
+                0,
+                3,
+                "AniBtlCraft25",
+                "Supreme Lion Rush"
+            ]
+        ]
+    },
+    "4": {
+        "AniBtlCraft30": [
+            [
+                2410,
+                4,
+                0,
+                1,
+                0,
+                "AniBtlCraft30",
+                "Dread Breaker"
+            ],
+            [
+                2420,
+                4,
+                0,
+                130,
+                0,
+                "AniBtlCraft30",
+                "Dread Breaker 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2412,
+                4,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Petrification Shell 2"
+            ],
+            [
+                2422,
+                4,
+                0,
+                140,
+                2,
+                "AniBtlCraft02",
+                "Petrification Shell 3"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2413,
+                4,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Burst Drive 2"
+            ],
+            [
+                2423,
+                4,
+                0,
+                0,
+                3,
+                "AniBtlCraft03",
+                "Burst Drive 3"
+            ]
+        ]
+    },
+    "5": {
+        "AniBtlCraft14": [
+            [
+                2504,
+                5,
+                0,
+                1,
+                0,
+                "AniBtlCraft14",
+                "Detector-β"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                2510,
+                5,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Serene Blessing 2"
+            ]
+        ],
+        "AniBtlCraft11": [
+            [
+                2511,
+                5,
+                0,
+                1,
+                2,
+                "AniBtlCraft11",
+                "Eclipse Edge 2"
+            ],
+            [
+                2521,
+                5,
+                0,
+                113,
+                2,
+                "AniBtlCraft11",
+                "Eclipse Edge 3"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2513,
+                5,
+                0,
+                1,
+                4,
+                "AniBtlCraft03",
+                "Vorpal Flare 2"
+            ],
+            [
+                2523,
+                5,
+                0,
+                198,
+                4,
+                "AniBtlCraft03",
+                "Vorpal Flare 3"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2520,
+                5,
+                0,
+                0,
+                1,
+                "AniBtlCraft02",
+                "Crescent Breath"
+            ]
+        ]
+    },
+    "6": {
+        "AniBtlCraft31": [
+            [
+                2611,
+                6,
+                0,
+                1,
+                1,
+                "AniBtlCraft31",
+                "Arc Slicer"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2613,
+                6,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Treasure Sword 2"
+            ],
+            [
+                2623,
+                6,
+                0,
+                200,
+                3,
+                "AniBtlCraft03",
+                "Treasure Sword 3"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                2614,
+                6,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Platinum Shield 2"
+            ],
+            [
+                2624,
+                6,
+                0,
+                0,
+                4,
+                "AniBtlCraft14",
+                "Platinum Shield 3"
+            ]
+        ],
+        "AniBtlCraft32": [
+            [
+                2615,
+                6,
+                0,
+                107,
+                5,
+                "AniBtlCraft32",
+                "Holy Sword of Elvars"
+            ]
+        ]
+    },
+    "7": {
+        "AniBtlCraft00": [
+            [
+                2710,
+                7,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Sweep 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2712,
+                7,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Cipher Edge 2"
+            ],
+            [
+                2722,
+                7,
+                0,
+                119,
+                2,
+                "AniBtlCraft02",
+                "Cipher Edge 3"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2713,
+                7,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Tri-Cyclone 2"
+            ],
+            [
+                2723,
+                7,
+                0,
+                0,
+                3,
+                "AniBtlCraft03",
+                "Tri-Cyclone 3"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                2714,
+                7,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Concealing Wind 2"
+            ],
+            [
+                2724,
+                7,
+                0,
+                128,
+                4,
+                "AniBtlCraft14",
+                "Concealing Wind 3"
+            ]
+        ]
+    },
+    "8": {
+        "AniBtlCraft14": [
+            [
+                2804,
+                8,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Hunter Wing"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                2810,
+                8,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Gale Storm 2"
+            ],
+            [
+                2820,
+                8,
+                0,
+                114,
+                0,
+                "AniBtlCraft00",
+                "Gale Storm 3"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                2811,
+                8,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Turbulence 2"
+            ],
+            [
+                2821,
+                8,
+                0,
+                125,
+                1,
+                "AniBtlCraft01",
+                "Turbulence 3"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2812,
+                8,
+                0,
+                1,
+                3,
+                "AniBtlCraft02",
+                "True Golden Howl"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2813,
+                8,
+                0,
+                1,
+                2,
+                "AniBtlCraft03",
+                "True Thunder Fang"
+            ],
+            [
+                2823,
+                8,
+                0,
+                202,
+                2,
+                "AniBtlCraft03",
+                "Supreme Thunder Fang"
+            ]
+        ]
+    },
+    "9": {
+        "AniBtlCraft01": [
+            [
+                2901,
+                9,
+                0,
+                0,
+                0,
+                "AniBtlCraft01",
+                "Ultimate Barrier"
+            ],
+            [
+                2911,
+                9,
+                0,
+                105,
+                0,
+                "AniBtlCraft01",
+                "Ultimate Barrier EX"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                2902,
+                9,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Valiant Cannon"
+            ],
+            [
+                2907,
+                9,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Valiant Cannon"
+            ],
+            [
+                2912,
+                9,
+                0,
+                126,
+                2,
+                "AniBtlCraft02",
+                "Valiant Cannon 2"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                2903,
+                9,
+                0,
+                0,
+                3,
+                "AniBtlCraft03",
+                "Megaton Press"
+            ],
+            [
+                2913,
+                9,
+                0,
+                0,
+                3,
+                "AniBtlCraft03",
+                "Megaton Press 2"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                2905,
+                9,
+                0,
+                0,
+                4,
+                "AniBtlCraft14",
+                "Caladbolg M"
+            ],
+            [
+                2906,
+                9,
+                0,
+                0,
+                4,
+                "AniBtlCraft14",
+                "Caladbolg M"
+            ]
+        ]
+    },
+    "15": {
+        "AniBtlCraft00": [
+            [
+                3510,
+                15,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "True Thundering Roar"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3512,
+                15,
+                0,
+                1,
+                1,
+                "AniBtlCraft02",
+                "True Searing Flash"
+            ],
+            [
+                3522,
+                15,
+                0,
+                127,
+                1,
+                "AniBtlCraft02",
+                "Supreme Searing Flash"
+            ]
+        ],
+        "AniBtlCraft13": [
+            [
+                3513,
+                15,
+                0,
+                1,
+                2,
+                "AniBtlCraft13",
+                "True Thunder Vortex"
+            ],
+            [
+                3523,
+                15,
+                0,
+                143,
+                2,
+                "AniBtlCraft13",
+                "Supreme Thunder Vortex"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3511,
+                15,
+                0,
+                1,
+                3,
+                "AniBtlCraft01",
+                "True Lightning Charge"
+            ],
+            [
+                3521,
+                15,
+                0,
+                0,
+                3,
+                "AniBtlCraft01",
+                "Supreme Lightning Charge"
+            ]
+        ]
+    },
+    "23": {
+        "AniBtlCraft01": [
+            [
+                3601,
+                23,
+                0,
+                1,
+                0,
+                "AniBtlCraft01",
+                "Chronos Bullet"
+            ]
+        ],
+        "AniBtlCraft01_1": [
+            [
+                3601,
+                23,
+                1,
+                1,
+                0,
+                "AniBtlCraft01",
+                "Chronos Bullet"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                3610,
+                23,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Quick Burst 2"
+            ]
+        ],
+        "AniBtlCraft00_1": [
+            [
+                3610,
+                23,
+                1,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Quick Burst 2"
+            ]
+        ],
+        "AniBtlCraft13": [
+            [
+                3603,
+                23,
+                0,
+                1,
+                2,
+                "AniBtlCraft13",
+                "Criminal Edge"
+            ],
+            [
+                3613,
+                23,
+                0,
+                121,
+                2,
+                "AniBtlCraft13",
+                "Criminal Edge 2"
+            ]
+        ],
+        "AniBtlCraft13_1": [
+            [
+                3603,
+                23,
+                1,
+                1,
+                2,
+                "AniBtlCraft13",
+                "Criminal Edge"
+            ],
+            [
+                3613,
+                23,
+                1,
+                121,
+                2,
+                "AniBtlCraft13",
+                "Criminal Edge 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3602,
+                23,
+                0,
+                1,
+                3,
+                "AniBtlCraft02",
+                "Eye of Balor"
+            ],
+            [
+                3612,
+                23,
+                0,
+                0,
+                3,
+                "AniBtlCraft02",
+                "Eye of Balor 2"
+            ]
+        ],
+        "AniBtlCraft02_1": [
+            [
+                3602,
+                23,
+                1,
+                1,
+                3,
+                "AniBtlCraft02",
+                "Eye of Balor"
+            ],
+            [
+                3612,
+                23,
+                1,
+                0,
+                3,
+                "AniBtlCraft02",
+                "Eye of Balor 2"
+            ]
+        ],
+        "AniBtlCraft05": [
+            [
+                3605,
+                23,
+                0,
+                1,
+                4,
+                "AniBtlCraft05",
+                "Azure Destiny"
+            ],
+            [
+                3615,
+                23,
+                0,
+                129,
+                4,
+                "AniBtlCraft05",
+                "Azure Destiny 2"
+            ]
+        ]
+    },
+    "10": {
+        "AniBtlCraft03": [
+            [
+                3013,
+                10,
+                0,
+                119,
+                3,
+                "AniBtlCraft03",
+                "Quick Star"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                3004,
+                10,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Burning Heart"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                3010,
+                10,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Cross Break 2"
+            ],
+            [
+                3020,
+                10,
+                0,
+                132,
+                0,
+                "AniBtlCraft00",
+                "Cross Break 3"
+            ]
+        ],
+        "AniBtlCraft00_1": [
+            [
+                3010,
+                10,
+                1,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Cross Break 2"
+            ],
+            [
+                3020,
+                10,
+                1,
+                132,
+                0,
+                "AniBtlCraft00",
+                "Cross Break 3"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3011,
+                10,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Gemini Blast 2"
+            ],
+            [
+                3021,
+                10,
+                0,
+                198,
+                1,
+                "AniBtlCraft01",
+                "Gemini Blast 3"
+            ]
+        ],
+        "AniBtlCraft01_1": [
+            [
+                3011,
+                10,
+                1,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Gemini Blast 2"
+            ],
+            [
+                3021,
+                10,
+                1,
+                198,
+                1,
+                "AniBtlCraft01",
+                "Gemini Blast 3"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3022,
+                10,
+                0,
+                101,
+                2,
+                "AniBtlCraft02",
+                "Valkyrie Smash"
+            ]
+        ],
+        "AniBtlCraft02_1": [
+            [
+                3022,
+                10,
+                1,
+                101,
+                2,
+                "AniBtlCraft02",
+                "Valkyrie Smash"
+            ]
+        ]
+    },
+    "11": {
+        "AniBtlCraft02": [
+            [
+                3112,
+                11,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Sword Dance"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                3104,
+                11,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Whirling Steel"
+            ],
+            [
+                3114,
+                11,
+                0,
+                133,
+                4,
+                "AniBtlCraft14",
+                "True Whirling Steel"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                3110,
+                11,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Rain Slash 2"
+            ],
+            [
+                3120,
+                11,
+                0,
+                111,
+                0,
+                "AniBtlCraft00",
+                "Rain Slash 3"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3111,
+                11,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "True Twilit Blades"
+            ],
+            [
+                3121,
+                11,
+                0,
+                175,
+                1,
+                "AniBtlCraft01",
+                "Supreme True Twilit Blades"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                3113,
+                11,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Tempest Edge 2"
+            ],
+            [
+                3123,
+                11,
+                0,
+                202,
+                3,
+                "AniBtlCraft03",
+                "Tempest Edge 3"
+            ]
+        ]
+    },
+    "12": {
+        "AniBtlCraft13": [
+            [
+                3203,
+                12,
+                0,
+                1,
+                0,
+                "AniBtlCraft13",
+                "Detector-Δ"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3212,
+                12,
+                0,
+                105,
+                4,
+                "AniBtlCraft02",
+                "Ebon Shade EX"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3211,
+                12,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Brionac 2"
+            ],
+            [
+                3221,
+                12,
+                0,
+                120,
+                1,
+                "AniBtlCraft01",
+                "Brionac 3"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                3214,
+                12,
+                0,
+                1,
+                2,
+                "AniBtlCraft14",
+                "Artium Heal"
+            ],
+            [
+                3224,
+                12,
+                0,
+                134,
+                2,
+                "AniBtlCraft14",
+                "Artium Heal 2"
+            ]
+        ],
+        "AniBtlCraft15": [
+            [
+                3215,
+                12,
+                0,
+                1,
+                3,
+                "AniBtlCraft15",
+                "Fragarach 2"
+            ],
+            [
+                3225,
+                12,
+                0,
+                199,
+                3,
+                "AniBtlCraft15",
+                "Fragarach 3"
+            ]
+        ]
+    },
+    "13": {
+        "AniBtlCraft01": [
+            [
+                3301,
+                13,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Sapphirl Rain"
+            ],
+            [
+                3311,
+                13,
+                0,
+                121,
+                1,
+                "AniBtlCraft01",
+                "Sapphirl Rain 2"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                3304,
+                13,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Penta-Shot"
+            ],
+            [
+                3314,
+                13,
+                0,
+                200,
+                4,
+                "AniBtlCraft14",
+                "Penta-Shot 2"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                3310,
+                13,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Oiseau Bleu 2"
+            ],
+            [
+                3320,
+                13,
+                0,
+                0,
+                0,
+                "AniBtlCraft00",
+                "Oiseau Azur"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3322,
+                13,
+                0,
+                110,
+                2,
+                "AniBtlCraft02",
+                "Cutie Bullet"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                3313,
+                13,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Moulin Rouge 2"
+            ]
+        ]
+    },
+    "14": {
+        "AniBtlCraft02": [
+            [
+                3402,
+                14,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Unbound Rage"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                3404,
+                14,
+                0,
+                1,
+                4,
+                "AniBtlCraft14",
+                "Dead Man's Dart"
+            ],
+            [
+                3414,
+                14,
+                0,
+                0,
+                4,
+                "AniBtlCraft14",
+                "Dead Man's Dart 2"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                3410,
+                14,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Rumbling Smash 2"
+            ],
+            [
+                3420,
+                14,
+                0,
+                103,
+                0,
+                "AniBtlCraft00",
+                "Rumbling Smash 3"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3411,
+                14,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Reaper's Whirlwind 2"
+            ],
+            [
+                3421,
+                14,
+                0,
+                201,
+                1,
+                "AniBtlCraft01",
+                "Reaper's Whirlwind 3"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                3423,
+                14,
+                0,
+                106,
+                3,
+                "AniBtlCraft03",
+                "Void Breaker EX"
+            ]
+        ]
+    },
+    "18": {
+        "AniBtlCraft00": [
+            [
+                3800,
+                18,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Laser Bullet"
+            ],
+            [
+                3810,
+                18,
+                0,
+                112,
+                0,
+                "AniBtlCraft00",
+                "Laser Bullet 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3801,
+                18,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Zero Impact"
+            ],
+            [
+                3811,
+                18,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Zero Impact 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3802,
+                18,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Dragon Boost"
+            ]
+        ]
+    },
+    "48": {
+        "AniBtlCraft00": [
+            [
+                4300,
+                48,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Mortal Mirage"
+            ],
+            [
+                4310,
+                48,
+                0,
+                113,
+                0,
+                "AniBtlCraft00",
+                "Mortal Mirage 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4301,
+                48,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Frigid Rain"
+            ],
+            [
+                4311,
+                48,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Frigid Rain 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                4302,
+                48,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Concentration"
+            ]
+        ]
+    },
+    "22": {
+        "AniBtlCraft00": [
+            [
+                4200,
+                22,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Binding Chains"
+            ],
+            [
+                4210,
+                22,
+                0,
+                113,
+                0,
+                "AniBtlCraft00",
+                "Binding Chains 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4201,
+                22,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Shadow Stitch"
+            ],
+            [
+                4211,
+                22,
+                0,
+                125,
+                1,
+                "AniBtlCraft01",
+                "Shadow Stitch 2"
+            ]
+        ],
+        "AniBtlCraft12": [
+            [
+                4202,
+                22,
+                0,
+                1,
+                2,
+                "AniBtlCraft12",
+                "Umbral Butterflies"
+            ],
+            [
+                4212,
+                22,
+                0,
+                0,
+                2,
+                "AniBtlCraft12",
+                "True Umbral Butterflies"
+            ]
+        ]
+    },
+    "16": {
+        "AniBtlCraft00": [
+            [
+                5010,
+                16,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Dynast Sunder"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5001,
+                16,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Prismatic Tetra Blade"
+            ],
+            [
+                5011,
+                16,
+                0,
+                123,
+                1,
+                "AniBtlCraft01",
+                "Supreme Prismatic Tetra Blade"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5002,
+                16,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Military Might"
+            ],
+            [
+                5012,
+                16,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Supreme Military Might"
+            ]
+        ]
+    },
+    "49": {
+        "AniBtlCraft00": [
+            [
+                4400,
+                49,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Laevateinn"
+            ],
+            [
+                4410,
+                49,
+                0,
+                109,
+                0,
+                "AniBtlCraft00",
+                "Laevateinn 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4401,
+                49,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Spell Card"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                4402,
+                49,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Getting Heated"
+            ],
+            [
+                4412,
+                49,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Heat Up 2"
+            ]
+        ]
+    },
+    "19": {
+        "AniBtlCraft00": [
+            [
+                3900,
+                19,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Requiem Shot"
+            ],
+            [
+                3910,
+                19,
+                0,
+                0,
+                1,
+                "AniBtlCraft00",
+                "Requiem Shot 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3901,
+                19,
+                0,
+                1,
+                0,
+                "AniBtlCraft01",
+                "Quick Draw"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3902,
+                19,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Happy Trigger"
+            ],
+            [
+                3912,
+                19,
+                0,
+                134,
+                2,
+                "AniBtlCraft02",
+                "Happy Trigger 2"
+            ]
+        ]
+    },
+    "17": {
+        "AniBtlCraft00": [
+            [
+                3700,
+                17,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Draguna Edge"
+            ],
+            [
+                3710,
+                17,
+                0,
+                113,
+                0,
+                "AniBtlCraft00",
+                "Draguna Edge 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                3701,
+                17,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Beat Down"
+            ],
+            [
+                3711,
+                17,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Beat Down 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                3702,
+                17,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Wild Rage"
+            ]
+        ]
+    },
+    "20": {
+        "AniBtlCraft03": [
+            [
+                4003,
+                20,
+                0,
+                1,
+                0,
+                "AniBtlCraft03",
+                "Hard Straight"
+            ],
+            [
+                4013,
+                20,
+                0,
+                91,
+                0,
+                "AniBtlCraft03",
+                "Hard Straight 2"
+            ]
+        ],
+        "AniBtlCraft00": [
+            [
+                4000,
+                20,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Chaff Grenade"
+            ],
+            [
+                4010,
+                20,
+                0,
+                112,
+                1,
+                "AniBtlCraft00",
+                "Chaff Grenade 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4001,
+                20,
+                0,
+                1,
+                2,
+                "AniBtlCraft01",
+                "Heavy Accel"
+            ],
+            [
+                4011,
+                20,
+                0,
+                196,
+                2,
+                "AniBtlCraft01",
+                "Heavy Accel 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                4002,
+                20,
+                0,
+                1,
+                3,
+                "AniBtlCraft02",
+                "Vital Cannon"
+            ]
+        ]
+    },
+    "21": {
+        "AniBtlCraft00": [
+            [
+                4100,
+                21,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Analyze"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4101,
+                21,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Beam Zanber"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                4102,
+                21,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Absolute Zero"
+            ],
+            [
+                4112,
+                21,
+                0,
+                198,
+                2,
+                "AniBtlCraft02",
+                "Absolute Zero 2"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                4103,
+                21,
+                0,
+                112,
+                3,
+                "AniBtlCraft03",
+                "Energy Circle"
+            ],
+            [
+                4113,
+                21,
+                0,
+                134,
+                3,
+                "AniBtlCraft03",
+                "Energy Circle 2"
+            ]
+        ],
+        "AniBtlCraft04": [
+            [
+                4104,
+                21,
+                0,
+                0,
+                4,
+                "AniBtlCraft04",
+                "Holy Arrival"
+            ]
+        ]
+    },
+    "37": {
+        "AniBtlCraft00": [
+            [
+                7300,
+                37,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Weakener"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                7301,
+                37,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Shooting Stars"
+            ],
+            [
+                7311,
+                37,
+                0,
+                124,
+                1,
+                "AniBtlCraft01",
+                "Shooting Stars EX"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                7302,
+                37,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Energy Rain"
+            ],
+            [
+                7312,
+                37,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Energy Rain 2"
+            ]
+        ]
+    },
+    "38": {
+        "AniBtlCraft00": [
+            [
+                7400,
+                38,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Swallow Tail"
+            ],
+            [
+                7410,
+                38,
+                0,
+                125,
+                0,
+                "AniBtlCraft00",
+                "Swallow Tail 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                7401,
+                38,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Holy Squall"
+            ],
+            [
+                7411,
+                38,
+                0,
+                195,
+                1,
+                "AniBtlCraft01",
+                "Holy Squall 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                7402,
+                38,
+                0,
+                104,
+                2,
+                "AniBtlCraft02",
+                "Pure Serenity"
+            ]
+        ]
+    },
+    "39": {
+        "AniBtlCraft00": [
+            [
+                7500,
+                39,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Detector-γ"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                7501,
+                39,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Purity Ray"
+            ],
+            [
+                7511,
+                39,
+                0,
+                112,
+                1,
+                "AniBtlCraft01",
+                "Purity Ray 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                7502,
+                39,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Royal Cheer"
+            ],
+            [
+                7512,
+                39,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Royal Cheer 2"
+            ]
+        ]
+    },
+    "32": {
+        "AniBtlCraft00": [
+            [
+                5200,
+                32,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Bloody Fang"
+            ],
+            [
+                5210,
+                32,
+                0,
+                0,
+                0,
+                "AniBtlCraft00",
+                "Bloody Sharp Fang"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5201,
+                32,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Crimson Lancer"
+            ],
+            [
+                5211,
+                32,
+                0,
+                123,
+                1,
+                "AniBtlCraft01",
+                "Crimson Lancer 2"
+            ]
+        ]
+    },
+    "24": {
+        "AniBtlCraft00": [
+            [
+                4900,
+                24,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Dancing Blades"
+            ],
+            [
+                4910,
+                24,
+                0,
+                124,
+                0,
+                "AniBtlCraft00",
+                "Supreme Dancing Blades"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4901,
+                24,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Frozen Prison"
+            ],
+            [
+                4911,
+                24,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Supreme Frozen Prison"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                4902,
+                24,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Diva's Invocation"
+            ]
+        ]
+    },
+    "26": {
+        "AniBtlCraft00": [
+            [
+                5300,
+                26,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Hurricane"
+            ],
+            [
+                5310,
+                26,
+                0,
+                127,
+                0,
+                "AniBtlCraft00",
+                "Supreme Hurricane"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5301,
+                26,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Barrage"
+            ],
+            [
+                5311,
+                26,
+                0,
+                197,
+                1,
+                "AniBtlCraft01",
+                "Supreme Barrage"
+            ]
+        ]
+    },
+    "27": {
+        "AniBtlCraft00": [
+            [
+                5400,
+                27,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Twin Shadow Fang"
+            ],
+            [
+                5410,
+                27,
+                0,
+                128,
+                0,
+                "AniBtlCraft00",
+                "Supreme Twin Shadow Fang"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5401,
+                27,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Black Fang"
+            ],
+            [
+                5411,
+                27,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Supreme Black Fang"
+            ]
+        ]
+    },
+    "28": {
+        "AniBtlCraft00": [
+            [
+                5500,
+                28,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Calamity Throw"
+            ],
+            [
+                5510,
+                28,
+                0,
+                112,
+                0,
+                "AniBtlCraft00",
+                "Calamity Throw 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5501,
+                28,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Rennede"
+            ],
+            [
+                5511,
+                28,
+                0,
+                196,
+                1,
+                "AniBtlCraft01",
+                "Rennede 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5502,
+                28,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Zodiac Code"
+            ]
+        ]
+    },
+    "29": {
+        "AniBtlCraft13": [
+            [
+                5602,
+                29,
+                0,
+                1,
+                2,
+                "AniBtlCraft13",
+                "Zero Breaker"
+            ],
+            [
+                5612,
+                29,
+                0,
+                120,
+                2,
+                "AniBtlCraft13",
+                "Zero Breaker χ"
+            ]
+        ],
+        "AniBtlCraft14": [
+            [
+                5603,
+                29,
+                0,
+                108,
+                3,
+                "AniBtlCraft14",
+                "Tiger Charge"
+            ],
+            [
+                5613,
+                29,
+                0,
+                200,
+                3,
+                "AniBtlCraft14",
+                "Tiger Charge χ"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5610,
+                29,
+                0,
+                100,
+                0,
+                "AniBtlCraft01",
+                "Brave Smash 2"
+            ],
+            [
+                5620,
+                29,
+                0,
+                175,
+                0,
+                "AniBtlCraft01",
+                "Brave Smash 3"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5611,
+                29,
+                0,
+                0,
+                1,
+                "AniBtlCraft02",
+                "Burning Heart 2"
+            ],
+            [
+                5621,
+                29,
+                0,
+                0,
+                1,
+                "AniBtlCraft02",
+                "Burning Heart 3"
+            ]
+        ]
+    },
+    "30": {
+        "AniBtlCraft00": [
+            [
+                5700,
+                30,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Mirage Swan"
+            ],
+            [
+                5710,
+                30,
+                0,
+                173,
+                0,
+                "AniBtlCraft00",
+                "Mirage Swan 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5701,
+                30,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Holy Bullet"
+            ],
+            [
+                5711,
+                30,
+                0,
+                133,
+                1,
+                "AniBtlCraft01",
+                "Holy Bullet 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5702,
+                30,
+                0,
+                107,
+                2,
+                "AniBtlCraft02",
+                "Divine Crusade"
+            ],
+            [
+                5712,
+                30,
+                0,
+                199,
+                2,
+                "AniBtlCraft02",
+                "Divine Crusade 2"
+            ]
+        ]
+    },
+    "31": {
+        "AniBtlCraft00": [
+            [
+                5800,
+                31,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Death Storm"
+            ],
+            [
+                5810,
+                31,
+                0,
+                135,
+                0,
+                "AniBtlCraft00",
+                "Death Storm 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5801,
+                31,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Crimson Gale"
+            ],
+            [
+                5811,
+                31,
+                0,
+                176,
+                1,
+                "AniBtlCraft01",
+                "Crimson Gale 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5802,
+                31,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "War Cry"
+            ],
+            [
+                5812,
+                31,
+                0,
+                139,
+                2,
+                "AniBtlCraft02",
+                "War Cry 2"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                5803,
+                31,
+                0,
+                127,
+                3,
+                "AniBtlCraft03",
+                "Carnage Raid"
+            ],
+            [
+                5813,
+                31,
+                0,
+                201,
+                3,
+                "AniBtlCraft03",
+                "Carnage Raid χ"
+            ]
+        ]
+    },
+    "40": {
+        "AniBtlCraft00": [
+            [
+                6600,
+                40,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Electromagnetic Net"
+            ],
+            [
+                6610,
+                40,
+                0,
+                136,
+                0,
+                "AniBtlCraft00",
+                "Electromagnetic Net 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6601,
+                40,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Smart Missiles"
+            ],
+            [
+                6611,
+                40,
+                0,
+                0,
+                1,
+                "AniBtlCraft01",
+                "Smart Missiles Σ"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6602,
+                40,
+                0,
+                119,
+                2,
+                "AniBtlCraft02",
+                "Rebel Shot"
+            ],
+            [
+                6612,
+                40,
+                0,
+                202,
+                2,
+                "AniBtlCraft02",
+                "Rebel Shot 2"
+            ]
+        ]
+    },
+    "41": {
+        "AniBtlCraft00": [
+            [
+                6700,
+                41,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Phantom Rush"
+            ],
+            [
+                6710,
+                41,
+                0,
+                137,
+                0,
+                "AniBtlCraft00",
+                "Phantom Rush 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6701,
+                41,
+                0,
+                111,
+                2,
+                "AniBtlCraft01",
+                "Deadly Heaven"
+            ],
+            [
+                6711,
+                41,
+                0,
+                203,
+                2,
+                "AniBtlCraft01",
+                "Deadly Heaven χ"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6702,
+                41,
+                0,
+                1,
+                1,
+                "AniBtlCraft02",
+                "Septenary Shot"
+            ],
+            [
+                6712,
+                41,
+                0,
+                0,
+                1,
+                "AniBtlCraft02",
+                "Septenary Shot 2"
+            ]
+        ]
+    },
+    "42": {
+        "AniBtlCraft00": [
+            [
+                6800,
+                42,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Dragon Claws"
+            ],
+            [
+                6810,
+                42,
+                0,
+                106,
+                0,
+                "AniBtlCraft00",
+                "True Dragon Claws"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6801,
+                42,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Phoenix Moon"
+            ],
+            [
+                6811,
+                42,
+                0,
+                204,
+                1,
+                "AniBtlCraft01",
+                "Supreme Phoenix Moon"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6802,
+                42,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Moonlight Butterflies"
+            ],
+            [
+                6812,
+                42,
+                0,
+                138,
+                2,
+                "AniBtlCraft02",
+                "True Moonlight Butterflies"
+            ]
+        ]
+    },
+    "33": {
+        "AniBtlCraft00": [
+            [
+                6500,
+                33,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Detector-Σ"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6501,
+                33,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Gramr Cannon"
+            ],
+            [
+                6511,
+                33,
+                0,
+                121,
+                1,
+                "AniBtlCraft01",
+                "Gramr Cannon 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6502,
+                33,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Caladbolg"
+            ],
+            [
+                6512,
+                33,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Caladbolg 2"
+            ]
+        ]
+    },
+    "25": {
+        "AniBtlCraft00": [
+            [
+                5900,
+                25,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Double Strike"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5901,
+                25,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Dizzying Blow"
+            ],
+            [
+                5911,
+                25,
+                0,
+                122,
+                1,
+                "AniBtlCraft01",
+                "Dizzying Blow 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5902,
+                25,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Sphere Break"
+            ],
+            [
+                5912,
+                25,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Sphere Break 2"
+            ]
+        ]
+    },
+    "34": {
+        "AniBtlCraft00": [
+            [
+                6000,
+                34,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "True Radiant Cleaver"
+            ],
+            [
+                6010,
+                34,
+                0,
+                124,
+                0,
+                "AniBtlCraft00",
+                "Supreme Radiant Cleaver"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6002,
+                34,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "True Radiant Wings"
+            ],
+            [
+                6012,
+                34,
+                0,
+                0,
+                2,
+                "AniBtlCraft02",
+                "Supreme Radiant Wings"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6011,
+                34,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Supreme Radiant Spin"
+            ]
+        ]
+    },
+    "35": {
+        "AniBtlCraft00": [
+            [
+                5100,
+                35,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Flame Brand"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                5101,
+                35,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Glacial Brand"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                5102,
+                35,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Storm Brand"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                5103,
+                35,
+                0,
+                1,
+                3,
+                "AniBtlCraft03",
+                "Swift Slash"
+            ],
+            [
+                5113,
+                35,
+                0,
+                123,
+                3,
+                "AniBtlCraft03",
+                "Swift Slash EX"
+            ]
+        ],
+        "AniBtlCraft04": [
+            [
+                5104,
+                35,
+                0,
+                1,
+                4,
+                "AniBtlCraft04",
+                "Bladelord Specter"
+            ],
+            [
+                5114,
+                35,
+                0,
+                0,
+                4,
+                "AniBtlCraft04",
+                "Supreme Bladelord Specter"
+            ]
+        ]
+    },
+    "44": {
+        "AniBtlCraft00": [
+            [
+                6100,
+                44,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Soul Eater"
+            ],
+            [
+                6110,
+                44,
+                0,
+                120,
+                1,
+                "AniBtlCraft00",
+                "Soul Eater 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6101,
+                44,
+                0,
+                1,
+                2,
+                "AniBtlCraft01",
+                "Renegade Edge"
+            ],
+            [
+                6111,
+                44,
+                0,
+                0,
+                2,
+                "AniBtlCraft01",
+                "Renegade Edge 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6102,
+                44,
+                0,
+                106,
+                3,
+                "AniBtlCraft02",
+                "Zevarl"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                6103,
+                44,
+                0,
+                111,
+                4,
+                "AniBtlCraft03",
+                "Noblesse Rune"
+            ],
+            [
+                6113,
+                44,
+                0,
+                134,
+                4,
+                "AniBtlCraft03",
+                "Noblesse Rune 2"
+            ]
+        ]
+    },
+    "45": {
+        "AniBtlCraft00": [
+            [
+                6200,
+                45,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Emerald Eye"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6201,
+                45,
+                0,
+                1,
+                2,
+                "AniBtlCraft01",
+                "Adamas Ripper"
+            ],
+            [
+                6211,
+                45,
+                0,
+                0,
+                2,
+                "AniBtlCraft01",
+                "Adamas Ripper 2"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6202,
+                45,
+                0,
+                106,
+                3,
+                "AniBtlCraft02",
+                "Edel Heart"
+            ],
+            [
+                6212,
+                45,
+                0,
+                119,
+                3,
+                "AniBtlCraft02",
+                "Edel Heart 2"
+            ]
+        ],
+        "AniBtlCraft03": [
+            [
+                6203,
+                45,
+                0,
+                112,
+                4,
+                "AniBtlCraft03",
+                "Grimoire Arc"
+            ],
+            [
+                6213,
+                45,
+                0,
+                198,
+                4,
+                "AniBtlCraft03",
+                "Grimoire Arc 2"
+            ]
+        ]
+    },
+    "46": {
+        "AniBtlCraft00": [
+            [
+                6300,
+                46,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Mark"
+            ],
+            [
+                6310,
+                46,
+                0,
+                114,
+                1,
+                "AniBtlCraft00",
+                "Mark EX"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6301,
+                46,
+                0,
+                1,
+                2,
+                "AniBtlCraft01",
+                "Revelation"
+            ],
+            [
+                6311,
+                46,
+                0,
+                133,
+                2,
+                "AniBtlCraft01",
+                "Revelation EX"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6302,
+                46,
+                0,
+                107,
+                3,
+                "AniBtlCraft02",
+                "Zoom Zone"
+            ],
+            [
+                6312,
+                46,
+                0,
+                200,
+                3,
+                "AniBtlCraft02",
+                "Zoom Zone 2"
+            ]
+        ]
+    },
+    "47": {
+        "AniBtlCraft00": [
+            [
+                6400,
+                47,
+                0,
+                1,
+                1,
+                "AniBtlCraft00",
+                "Punitive Pierce"
+            ],
+            [
+                6410,
+                47,
+                0,
+                113,
+                1,
+                "AniBtlCraft00",
+                "Punitive Pierce 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6401,
+                47,
+                0,
+                1,
+                2,
+                "AniBtlCraft01",
+                "Pep Boost!"
+            ],
+            [
+                6411,
+                47,
+                0,
+                132,
+                2,
+                "AniBtlCraft01",
+                "Pep Boost!!"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6402,
+                47,
+                0,
+                107,
+                3,
+                "AniBtlCraft02",
+                "Threaddy Bear"
+            ],
+            [
+                6412,
+                47,
+                0,
+                199,
+                3,
+                "AniBtlCraft02",
+                "Threaddy Bear 2"
+            ]
+        ]
+    },
+    "43": {
+        "AniBtlCraft00": [
+            [
+                6900,
+                43,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Twin Arcane Gale"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                6901,
+                43,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Fujin's Fury"
+            ],
+            [
+                6911,
+                43,
+                0,
+                128,
+                1,
+                "AniBtlCraft01",
+                "Supreme"
+            ]
+        ],
+        "AniBtlCraft02": [
+            [
+                6902,
+                43,
+                0,
+                1,
+                2,
+                "AniBtlCraft02",
+                "Qinggong"
+            ],
+            [
+                6912,
+                43,
+                0,
+                198,
+                2,
+                "AniBtlCraft02",
+                "Supreme Qinggong"
+            ]
+        ]
+    },
+    "50": {
+        "AniBtlCraft00": [
+            [
+                7000,
+                50,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Flames of Judgment"
+            ],
+            [
+                7010,
+                50,
+                0,
+                210,
+                0,
+                "AniBtlCraft00",
+                "Flames of Judgment 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                7001,
+                50,
+                0,
+                1,
+                1,
+                "AniBtlCraft01",
+                "Hellhounds"
+            ],
+            [
+                7011,
+                50,
+                0,
+                220,
+                1,
+                "AniBtlCraft01",
+                "Hellhounds 2"
+            ]
+        ],
+        "AniBtlCraft12": [
+            [
+                7002,
+                50,
+                0,
+                1,
+                2,
+                "AniBtlCraft12",
+                "Demonic Sword Angbar"
+            ]
+        ],
+        "AniBtlCraft00_1": [
+            [
+                7100,
+                50,
+                0,
+                -1,
+                0,
+                "AniBtlCraft00",
+                "Chaotic Flames"
+            ],
+            [
+                7110,
+                50,
+                0,
+                -1,
+                0,
+                "AniBtlCraft00",
+                "Chaotic Flames 2"
+            ]
+        ],
+        "AniBtlCraft01_1": [
+            [
+                7101,
+                50,
+                0,
+                -1,
+                1,
+                "AniBtlCraft01",
+                "Abyssal Hounds"
+            ],
+            [
+                7111,
+                50,
+                0,
+                -1,
+                1,
+                "AniBtlCraft01",
+                "Abyssal Hounds 2"
+            ]
+        ],
+        "AniBtlCraft12_1": [
+            [
+                7102,
+                50,
+                0,
+                -1,
+                2,
+                "AniBtlCraft12",
+                "Demonic Sword Angbar χ"
+            ]
+        ]
+    },
+    "36": {
+        "AniBtlCraft00": [
+            [
+                4604,
+                36,
+                0,
+                1,
+                0,
+                "AniBtlCraft00",
+                "Nine Lives"
+            ],
+            [
+                4614,
+                36,
+                0,
+                0,
+                0,
+                "AniBtlCraft00",
+                "Nine Lives 2"
+            ]
+        ],
+        "AniBtlCraft01": [
+            [
+                4605,
+                36,
+                0,
+                122,
+                1,
+                "AniBtlCraft01",
+                "Crimson Tail"
+            ],
+            [
+                4615,
+                36,
+                0,
+                196,
+                1,
+                "AniBtlCraft01",
+                "Crimson Tail 2"
+            ]
+        ]
+    }
+}

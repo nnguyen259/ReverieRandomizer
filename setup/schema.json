@@ -1,0 +1,1976 @@
+{
+  "entries": {
+    "ActionParam": {
+      "unknown_short": "u16",
+      "unknown_byte": "u8",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 2
+        }
+      }
+    },
+    "ActiveVoiceTableData": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_short_3": "u16",
+      "portrait": "c_utf8",
+      "id": "u16",
+      "character": "i16",
+      "text": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 14
+        }
+      },
+      "event_id": "u16"
+    },
+    "AssetCache": {
+      "unknown_int": "u16",
+      "asset": "c_utf8"
+    },
+    "AtBonus": {
+      "unknown_int": "u32",
+      "inverse_chance": "u8",
+      "unk_bonus": {
+        "repeat": {
+          "count": 24,
+          "type": "u8"
+        }
+      }
+    },
+    "AttachTableData": {
+      "character": "u16",
+      "item_type": "u16",
+      "unknown_short": "u16",
+      "item_id": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 18
+        }
+      },
+      "unknown_string_1": "c_utf8",
+      "model": "c_utf8",
+      "unknown_string_2": "c_utf8"
+    },
+    "AttachTransformData": {
+      "unknown_short": "u16",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_string_3": "c_utf8",
+      "unknown_string_4": "c_utf8",
+      "unknown_string_5": "c_utf8"
+    },
+    "BaseList": {
+      "character": "i16",
+      "lines": "u16",
+      "elements": {
+        "repeat": {
+          "count": 7,
+          "type": "u16"
+        }
+      }
+    },
+    "BaseParam": {
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32"
+    },
+    "bgm": {
+      "id": "u16",
+      "track": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_float": "f32"
+    },
+    "BtlWinLinkChr": {
+      "id": "u16",
+      "name": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 51
+        }
+      }
+    },
+    "BtlWinLinkPair": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 26
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_4": "f32",
+      "unknown_short_3": "u16",
+      "unknown_byte_1": "i8",
+      "unknown_byte_2": "i8",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8"
+    },
+    "char_revise": {
+      "char": "c_utf8",
+      "unknown_shorts": {
+        "repeat": {
+          "count": 9,
+          "type": "u16"
+        }
+      }
+    },
+    "CharGroup": {
+      "unknown_short_1": "i16",
+      "characters": {
+        "repeat": {
+          "count": 6,
+          "type": "i16"
+        }
+      },
+      "unknown_data": {
+        "bytes": {
+          "count": 14
+        }
+      },
+      "name": "c_utf8"
+    },
+    "CompHelpData": {
+      "type": "i16",
+      "text": "c_utf8",
+      "value": "i32"
+    },
+    "CoursePoint": {
+      "course": "u32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32"
+    },
+    "dlc": {
+      "dlc_id": "i16",
+      "sort_id": "i16",
+      "unknown_data": {
+        "bytes": {
+          "count": 16
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8",
+      "items": {
+        "repeat": {
+          "count": 20,
+          "type": {
+            "ref": "dlc_item"
+          }
+        }
+      }
+    },
+    "DifficultyParam": {
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_float_11": "f32"
+    },
+    "EnterButtonImage": {
+      "unknown_string": "c_utf8"
+    },
+    "EventGroupData": {
+      "id": "u16",
+      "title": "c_utf8"
+    },
+    "EventTableData": {
+      "id": "u16",
+      "unknown_string_1": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_string_2": "c_utf8",
+      "unknown_string_3": "c_utf8",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_string_4": "c_utf8",
+      "unknown_data_4": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "unknown_string_5": "c_utf8",
+      "unknown_data_5": {
+        "bytes": {
+          "count": 16
+        }
+      }
+    },
+    "FlagData": {
+      "unknown_byte_1": "u8",
+      "unknown_byte_2": "u8",
+      "unknown_byte_3": "u8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32"
+    },
+    "FootStepData": {
+      "unknown_string": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 3
+        }
+      }
+    },
+    "GameParam": {
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_float_11": "f32"
+    },
+    "hkitugi_lst": {
+      "unknown_short": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "text": "c_utf8",
+      "description": "c_utf8"
+    },
+    "InfinityAsset": {
+      "unknown_int": "u32",
+      "unknown_text": {
+        "repeat": {
+          "count": 16,
+          "type": "c_utf8"
+        }
+      }
+    },
+    "InfinityAttachPointLight": {
+      "unknown_string": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32"
+    },
+    "InfinityChara": {
+      "character": "u16",
+      "shard_id": "u16",
+      "orb_id": "u16",
+      "aura_or_halo_id": "u16"
+    },
+    "InfinityCharaItem": {
+      "character": "u16",
+      "dummy_item": "u16",
+      "item": "u16"
+    },
+    "InfinityDefine": {
+      "unknown_int": "u32",
+      "unknown_float": "f32"
+    },
+    "InfinityEpisode": {
+      "unknown_byte_1": "u8",
+      "unknown_byte_2": "u8",
+      "unknown_short": "u16"
+    },
+    "InfinityGachaChara": {
+      "character": "u16",
+      "stratum": "u8"
+    },
+    "InfinityHills": {
+      "map": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 20
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32"
+    },
+    "InfinityItem": {
+      "unknown_data": {
+        "bytes": {
+          "count": 5
+        }
+      },
+      "unknown_short_2": "u16",
+      "unknown_short_3": "u16",
+      "unknown_short_4": "u16",
+      "unknown_short_5": "u16",
+      "unknown_short_6": "u16",
+      "unknown_short_7": "u16",
+      "unknown_text": "c_utf8",
+      "unknown_short_8": "u16"
+    },
+    "InfinityItemRank": {
+      "unknown_int": "u32",
+      "unknown_string": "c_utf8"
+    },
+    "InfinityItemRate": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32"
+    },
+    "InfinityLayout": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32"
+    },
+    "InfinityMons": {
+      "unknown_data": {
+        "bytes": {
+          "count": 13
+        }
+      },
+      "unknown_text_1": "c_utf8",
+      "unknown_byte_1": "u8",
+      "unknown_text_2": "c_utf8",
+      "unknown_byte_2": "u8",
+      "unknown_text_3": "c_utf8",
+      "unknown_byte_3": "u8",
+      "unknown_text_4": "c_utf8",
+      "unknown_byte_4": "u8",
+      "unknown_text_5": "c_utf8",
+      "unknown_byte_5": "u8",
+      "unknown_text_6": "c_utf8",
+      "unknown_byte_6": "u8",
+      "unknown_text_7": "c_utf8",
+      "unknown_byte_7": "u8",
+      "unknown_text_8": "c_utf8",
+      "unknown_byte_8": "u8"
+    },
+    "InfinityPosBreak": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_floats": {
+        "repeat": {
+          "count": 36,
+          "type": "f32"
+        }
+      }
+    },
+    "InfinityPosCrystal": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_floats": {
+        "repeat": {
+          "count": 36,
+          "type": "f32"
+        }
+      }
+    },
+    "InfinityPosMons": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_floats": {
+        "repeat": {
+          "count": 36,
+          "type": "f32"
+        }
+      }
+    },
+    "InfinityPosTbox": {
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_floats": {
+        "repeat": {
+          "count": 36,
+          "type": "f32"
+        }
+      }
+    },
+    "InfRFBase": {
+      "description_short": "c_utf8",
+      "item_name": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 10
+        }
+      },
+      "description_long": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "cost_1": "i16",
+      "unknown_short_1": "i16",
+      "cost_2": "i16",
+      "unknown_short_2": "i16",
+      "cost_3": "i16",
+      "unknown_short_3": "i16",
+      "cost_4": "i16",
+      "unknown_short_4": "i16",
+      "cost_5": "i16",
+      "unknown_short_5": "i16",
+      "cost_6": "i16",
+      "unknown_short_6": "i16",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 8
+        }
+      }
+    },
+    "InfRFItem": {
+      "description_short": "c_utf8",
+      "item_name": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "item": "u16",
+      "description_long": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "cost": {
+        "repeat": {
+          "count": 10,
+          "type": "i16"
+        }
+      },
+      "unknown_data_3": {
+        "bytes": {
+          "count": 12
+        }
+      }
+    },
+    "item": {
+      "id": "u16",
+      "character_restriction": "u16",
+      "flags": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "type": "u16",
+      "unknown_byte_1": "u8",
+      "subtype": "u16",
+      "element": "u8",
+      "mode": "u8",
+      "slash": "u8",
+      "thrust": "u8",
+      "pierce": "u8",
+      "strike": "u8",
+      "target_type": "u8",
+      "range": "f32",
+      "area": "u8",
+      "effects": {
+        "repeat": {
+          "count": 5,
+          "type": {
+            "ref": "effect"
+          }
+        }
+      },
+      "str": "i32",
+      "def": "i32",
+      "ats": "i32",
+      "adf": "i32",
+      "acc": "i32",
+      "eva": "i32",
+      "spd": "i32",
+      "mov": "i32",
+      "hp": "i32",
+      "ep": "i32",
+      "price": "u32",
+      "carry_limit": "u16",
+      "sort_id": "u16",
+      "unknown_short_3": "u16",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "item_e": {
+      "id": "u16",
+      "character_restriction": "u16",
+      "flags": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "type": "u16",
+      "unknown_byte_1": "u8",
+      "subtype": "u16",
+      "element": "u8",
+      "mode": "u8",
+      "slash": "u8",
+      "thrust": "u8",
+      "pierce": "u8",
+      "strike": "u8",
+      "target_type": "u8",
+      "range": "f32",
+      "area": "u8",
+      "effects": {
+        "repeat": {
+          "count": 5,
+          "type": {
+            "ref": "effect"
+          }
+        }
+      },
+      "str": "i32",
+      "def": "i32",
+      "ats": "i32",
+      "adf": "i32",
+      "acc": "i32",
+      "eva": "i32",
+      "spd": "i32",
+      "mov": "i32",
+      "hp": "i32",
+      "ep": "i32",
+      "price": "u32",
+      "carry_limit": "u16",
+      "sort_id": "u16",
+      "unknown_short_3": "u16",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8",
+      "unknown_data_4": {
+        "bytes": {
+          "count": 10
+        }
+      }
+    },
+    "item_q": {
+      "id": "u16",
+      "character_restriction": "u16",
+      "flags": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "type": "u16",
+      "unknown_byte_1": "u8",
+      "subtype": "u16",
+      "element": "u8",
+      "mode": "u8",
+      "slash": "u8",
+      "thrust": "u8",
+      "pierce": "u8",
+      "strike": "u8",
+      "target_type": "u8",
+      "range": "f32",
+      "area": "u8",
+      "effects": {
+        "repeat": {
+          "count": 5,
+          "type": {
+            "ref": "effect"
+          }
+        }
+      },
+      "str": "i32",
+      "def": "i32",
+      "ats": "i32",
+      "adf": "i32",
+      "acc": "i32",
+      "eva": "i32",
+      "spd": "i32",
+      "mov": "i32",
+      "hp": "i32",
+      "ep": "i32",
+      "price": "u32",
+      "carry_limit": "u16",
+      "sort_id": "u16",
+      "unknown_short_3": "u16",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8",
+      "unknown_data_4": {
+        "bytes": {
+          "count": 22
+        }
+      }
+    },
+    "item_set": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_int": "u32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8"
+    },
+    "ItemHelpData": {
+      "effect": "u16",
+      "unknown_int": "u16",
+      "text": "c_utf8",
+      "unknown_short": "i16",
+      "unknown_data": {
+        "bytes": {
+          "count": 7
+        }
+      }
+    },
+    "KisinPilotData": {
+      "unknown_data": {
+        "bytes": {
+          "count": 8
+        }
+      },
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8"
+    },
+    "LimitedMission": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 41
+        }
+      },
+      "unknown_short_3": "u16",
+      "unknown_short_4": "u16",
+      "unknown_short_5": "u16",
+      "unknown_short_6": "u16",
+      "unknown_short_7": "u16",
+      "unknown_short_8": "u16",
+      "unknown_short_9": "u16",
+      "unknown_short_10": "u16",
+      "unknown_short_11": "u16",
+      "unknown_short_12": "u16",
+      "unknown_short_13": "u16",
+      "name": "c_utf8",
+      "description": "c_utf8",
+      "hint": "c_utf8",
+      "hint_4": "c_utf8",
+      "hint_5": "c_utf8",
+      "hint_6": "c_utf8"
+    },
+    "LinkAbList": {
+      "character": "i16",
+      "level": "i16",
+      "ability": "u32"
+    },
+    "LinkAbText": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "id": "u32",
+      "group_id": "u32",
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "LinkAbRateA": {
+      "level": "i8",
+      "rate": "f32"
+    },
+    "LinkAbRateB": {
+      "level": "i8",
+      "rate": "f32"
+    },
+    "LinkLevelExp": {
+      "level": "i8",
+      "exp": "i32"
+    },
+    "LinkLevelGetExp": {
+      "unknown_byte": "i8",
+      "exp": "i32"
+    },
+    "magic": {
+      "id": "u16",
+      "character_restriction": "u16",
+      "flags": "c_utf8",
+      "category": "u8",
+      "sub_category": "u8",
+      "element": "u8",
+      "mode_switch": "u8",
+      "target_type": "u8",
+      "target_range": "f32",
+      "target_size": "u8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "effects": {
+        "repeat": {
+          "count": 5,
+          "type": {
+            "ref": "effect"
+          }
+        }
+      },
+      "cast_delay": "u8",
+      "recovery_delay": "u8",
+      "resource_type": "u8",
+      "cost": "u16",
+      "unbalance_bonus": "i8",
+      "break_bonus": "i16",
+      "level_learn": "i16",
+      "sort_id": "u16",
+      "animation": "c_utf8",
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "MapJumpData": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 10
+        }
+      },
+      "name": "c_utf8",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 4
+        }
+      }
+    },
+    "MapParam": {
+      "map": "c_utf8",
+      "unknown_string": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_3": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      }
+    },
+    "MarkerTableData": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_short_3": "u16",
+      "unknown_string_1": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 9
+        }
+      },
+      "unknown_string_2": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 12
+        }
+      }
+    },
+    "MasterMission": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 46
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8",
+      "hint": "c_utf8"
+    },
+    "MasterQuartzAbilityMemo": {
+      "id": "u32",
+      "description_1": "c_utf8",
+      "description_2": "c_utf8",
+      "description_3": "c_utf8"
+    },
+    "MasterQuartzBase": {
+      "item_id": "u16",
+      "mq_id": "u16",
+      "unknown_short": "u16",
+      "hp_pattern": "u16",
+      "ep_pattern": "u16",
+      "str_pattern": "u16",
+      "def_pattern": "u16",
+      "ats_pattern": "u16",
+      "adf_pattern": "u16",
+      "spd_pattern": "u16"
+    },
+    "MasterQuartzBase2": {
+      "item_id": "u32",
+      "ability_1": "u16",
+      "ability_2": "u16",
+      "ability_3": "u16"
+    },
+    "MasterQuartzChrLv": {
+      "mq_level": "u32",
+      "char_level": "u32"
+    },
+    "MasterQuartzData": {
+      "item_id": "u16",
+      "level": "u16",
+      "effect_data": {
+        "repeat": {
+          "count": 9,
+          "type": "f32"
+        }
+      },
+      "arts": {
+        "repeat": {
+          "count": 2,
+          "type": "i16"
+        }
+      },
+      "memos": {
+        "repeat": {
+          "count": 9,
+          "type": "i16"
+        }
+      }
+    },
+    "MasterQuartzDummy": {
+      "dummy_id": "i16",
+      "original_id": "i16"
+    },
+    "MasterQuartzStatus": {
+      "pattern_id": "u8",
+      "level": "u16",
+      "main_hp": "i16",
+      "main_ep": "i16",
+      "main_str": "i16",
+      "main_def": "i16",
+      "main_ats": "i16",
+      "main_adf": "i16",
+      "main_spd": "i16",
+      "sub_hp": "i16",
+      "sub_ep": "i16",
+      "sub_str": "i16",
+      "sub_def": "i16",
+      "sub_ats": "i16",
+      "sub_adf": "i16",
+      "sub_spd": "i16"
+    },
+    "mcburn_resist": {
+      "enemy": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      }
+    },
+    "MG07ChrData": {
+      "character": "u16",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "avatar": "c_utf8",
+      "unknown_text": "c_utf8",
+      "unknown_shorts": {
+        "repeat": {
+          "count": 6,
+          "type": "u16"
+        }
+      }
+    },
+    "MG08Card": {
+      "id": "u16",
+      "type": "u16",
+      "element": "u16",
+      "name": "c_utf8",
+      "item": "u16",
+      "mana": "u16",
+      "cost": "u16",
+      "atk": "u16",
+      "hp": "u16",
+      "unknown_int": "u16",
+      "ranged_flag": "u16",
+      "ranged_string": "c_utf8",
+      "flight_flag": "u16",
+      "flight_string": "c_utf8",
+      "skill_id": "u16",
+      "skill_string": "c_utf8",
+      "skill_cost": "u16",
+      "skill_arg": "u16",
+      "skill_description": "c_utf8",
+      "ability_id": "u16",
+      "ability_arg": "u16",
+      "ability_description": "c_utf8",
+      "effect_id": "u16",
+      "unknown_int_2": "u16",
+      "effect_arg_1": "i16",
+      "effect_arg_2": "i16",
+      "effect_description": "c_utf8"
+    },
+    "MG08CharMsg": {
+      "character": "u16",
+      "id": "u16",
+      "unknown_int": "u16",
+      "text": "c_utf8",
+      "voice": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      }
+    },
+    "MG08EnemyAi": {
+      "character": "u16",
+      "id": "u16",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_short_3": "u16",
+      "unknown_short_4": "u16",
+      "master": "u16",
+      "cards": {
+        "repeat": {
+          "count": 20,
+          "type": "u16"
+        }
+      }
+    },
+    "MG08PresetDeck": {
+      "id": "u8",
+      "master": "u8",
+      "cards": {
+        "repeat": {
+          "count": 20,
+          "type": "u8"
+        }
+      }
+    },
+    "MG08Text": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "MG08Title": {
+      "unknown_short_1": "u16",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_string_3": "c_utf8",
+      "unknown_string_4": "c_utf8",
+      "unknown_string_5": "c_utf8"
+    },
+    "MG09CharMsg": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_string": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 6
+        }
+      }
+    },
+    "MG09Medal": {
+      "unknown_short_1": "i16",
+      "unknown_short_2": "i16",
+      "unknown_short_3": "i16",
+      "unknown_short_4": "i16",
+      "unknown_short_5": "i16",
+      "unknown_short_6": "i16"
+    },
+    "MG09Prob": {
+      "unknown_int_1": "i32",
+      "unknown_int_2": "i32",
+      "unknown_int_3": "i32",
+      "unknown_int_4": "i32",
+      "unknown_int_5": "i32",
+      "unknown_int_6": "i32",
+      "unknown_int_7": "i32"
+    },
+    "MG09Text": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "MG10CharMsg": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_string": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 6
+        }
+      }
+    },
+    "MG10Medal": {
+      "unknown_short_1": "i16",
+      "unknown_short_2": "i16",
+      "unknown_short_3": "i16",
+      "unknown_short_4": "i16",
+      "unknown_short_5": "i16",
+      "unknown_short_6": "i16",
+      "unknown_short_7": "i16",
+      "unknown_short_8": "i16",
+      "unknown_short_9": "i16",
+      "unknown_short_10": "i16"
+    },
+    "MG10Text": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "MG11Chara": {
+      "id": "u16",
+      "unknown_float": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 10
+        }
+      }
+    },
+    "MG11MonsData": {
+      "unknown_text_1": "c_utf8",
+      "unknown_short_1": "u16",
+      "unknown_text_2": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_short_2": "u16",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_float_11": "f32",
+      "unknown_short_3": "u16",
+      "unknown_short_4": "u16"
+    },
+    "MG11EVTime": {
+      "unknown_float_1": "f32",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 8
+        }
+      },
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_string": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 12
+        }
+      }
+    },
+    "MG11Text": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "MG11Time": {
+      "unknown_float_1": "f32",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_text": "c_utf8",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32"
+    },
+    "MG14Actoin": {
+      "pilot": "c_utf8",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_7": "f32",
+      "animation": "c_utf8",
+      "description": "c_utf8"
+    },
+    "MG14Algo": {
+      "enemy": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 14
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      }
+    },
+    "MG14CharMsg": {
+      "character": "u16",
+      "unknown_int_1": "u32",
+      "text": "c_utf8",
+      "unknown_short": "u16",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_int_2": "u32"
+    },
+    "MG14Pilot": {
+      "pilot": "c_utf8",
+      "unknown_short_1": "i16",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 20
+        }
+      },
+      "unknown_string_3": "c_utf8",
+      "unknown_short_2": "i16",
+      "name": "c_utf8"
+    },
+    "MG14Stage": {
+      "stage": "u32",
+      "unknown_float": "f32"
+    },
+    "MG16Arrange": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_string_3": "c_utf8",
+      "unknown_string_4": "c_utf8",
+      "unknown_string_5": "c_utf8",
+      "unknown_string_6": "c_utf8",
+      "unknown_string_7": "c_utf8",
+      "unknown_string_8": "c_utf8",
+      "unknown_string_9": "c_utf8"
+    },
+    "MG16Assist": {
+      "unknown_int": "u32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 6
+        }
+      }
+    },
+    "MG16Atari": {
+      "character": "c_utf8",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32"
+    },
+    "MG16Chara": {
+      "character": "c_utf8",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_10": "f32",
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_int_3": "u32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 16
+        }
+      },
+      "unknown_string_3": "c_utf8",
+      "unknown_short_1": "i16"
+    },
+    "MG16Composition": {
+      "unknown_int": "u32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_float_11": "f32",
+      "unknown_float_12": "f32",
+      "unknown_float_13": "f32",
+      "unknown_float_14": "f32",
+      "unknown_float_15": "f32",
+      "unknown_float_16": "f32",
+      "unknown_float_17": "f32",
+      "unknown_float_18": "f32",
+      "unknown_float_19": "f32",
+      "unknown_float_20": "f32",
+      "unknown_float_21": "f32",
+      "unknown_float_22": "f32",
+      "unknown_float_23": "f32",
+      "unknown_float_24": "f32"
+    },
+    "MG16MapEff": {
+      "unknown_short_1": "u16",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_string": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32"
+    },
+    "MG16MapObj": {
+      "unknown_short_1": "u16",
+      "unknown_string": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32"
+    },
+    "MG16MapSet": {
+      "unknown_short_1": "u16",
+      "unknown_string": "c_utf8",
+      "unknown_int_1": "u32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_float_11": "f32"
+    },
+    "MG16Shot": {
+      "character": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 24
+        }
+      },
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_float_5": "f32",
+      "unknown_float_6": "f32",
+      "unknown_float_7": "f32",
+      "unknown_float_8": "f32",
+      "unknown_float_9": "f32",
+      "unknown_float_10": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_float_11": "f32",
+      "unknown_data_3": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_float_13": "f32",
+      "unknown_float_14": "f32",
+      "unknown_float_15": "f32"
+    },
+    "MGRank": {
+      "mg_id": "u32",
+      "stage_id": "u32",
+      "unknown_int_1": "u32",
+      "unknown_int_2": "u32",
+      "unknown_short": "u16"
+    },
+    "MGStage": {
+      "mg_id": "u32",
+      "stage_id": "u32",
+      "text": "c_utf8"
+    },
+    "MGText": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "NameChangeTableData": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_text": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 6
+        }
+      }
+    },
+    "NameTableData": {
+      "character": "u16",
+      "name": "c_utf8",
+      "model": "c_utf8",
+      "animation": "c_utf8",
+      "default_face": "c_utf8",
+      "face": "c_utf8",
+      "unknown_string": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_floats": {
+        "repeat": {
+          "count": 2,
+          "type": "f32"
+        }
+      },
+      "unknown_shorts": {
+        "repeat": {
+          "count": 2,
+          "type": "i16"
+        }
+      },
+      "unknown_data_2": {
+        "bytes": {
+          "count": 3
+        }
+      }
+    },
+    "NameVis": {
+      "unknown_string": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 12
+        }
+      }
+    },
+    "NaviTextData": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "text": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 10
+        }
+      }
+    },
+    "OrbLineList": {
+      "character": "i16",
+      "line": "u16",
+      "slot_ids": {
+        "repeat": {
+          "count": 7,
+          "type": "i16"
+        }
+      }
+    },
+    "PlaceTableData": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_string_1": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_string_2": "c_utf8",
+      "unknown_string_3": "c_utf8",
+      "unknown_string_4": "c_utf8",
+      "unknown_string_5": "c_utf8",
+      "unknown_string_6": "c_utf8",
+      "unknown_byte": "u8"
+    },
+    "PopupMsgFaceCharData": {
+      "unknown_short": "u16",
+      "unknown_string": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 44
+        }
+      }
+    },
+    "QSBook": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "title": "c_utf8",
+      "unknown_text_1": "c_utf8",
+      "unknown_text_2": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 5
+        }
+      }
+    },
+    "QSChapter": {
+      "section_id": "u16",
+      "section_name": "c_utf8",
+      "unknown_short": "u16"
+    },
+    "QSChar": {
+      "character": "u16",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 6
+        }
+      },
+      "unknown_text_1": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_text_2": "c_utf8",
+      "name_short": "c_utf8",
+      "name_long": "c_utf8",
+      "affiliation_short": "c_utf8",
+      "affiliation_long": "c_utf8",
+      "note_1": "c_utf8",
+      "note_2_title": "c_utf8",
+      "note_2": "c_utf8",
+      "note_3_title": "c_utf8",
+      "note_3": "c_utf8",
+      "note_4_title": "c_utf8",
+      "note_4": "c_utf8",
+      "note_5_title": "c_utf8",
+      "note_5": "c_utf8"
+    },
+    "QSCook": {
+      "regular_name": "c_utf8",
+      "id": "u16",
+      "ingredients": {
+        "repeat": {
+          "count": 8,
+          "type": {
+            "ref": "QSCook_ingredient"
+          }
+        }
+      },
+      "superb_id": "u32",
+      "regular_id": "u32",
+      "peculiar_id": "u32",
+      "skill_level": {
+        "repeat": {
+          "count": 48,
+          "type": "u8"
+        }
+      }
+    },
+    "QSFish": {
+      "id": "u16",
+      "unknown_string": "c_utf8",
+      "name": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 167
+        }
+      },
+      "description": "c_utf8"
+    },
+    "QSHelp": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "text": "c_utf8"
+    },
+    "QSMons": {
+      "enemy": "c_utf8",
+      "unknown_byte": "u8",
+      "section_id": "u16",
+      "unknown_short": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      }
+    },
+    "QSRank": {
+      "unknown_short_1": "u16",
+      "name": "c_utf8",
+      "required_RP": "u16",
+      "unknown_short_3": "u16",
+      "unknown_short_4": "u16",
+      "unknown_data": {
+        "bytes": {
+          "count": 2
+        }
+      }
+    },
+    "QSTitle": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 3
+        }
+      },
+      "description_1": "c_utf8",
+      "description_2": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 17
+        }
+      }
+    },
+    "QSText": {
+      "unknown_data_1": {
+        "bytes": {
+          "count": 3
+        }
+      },
+      "text": "c_utf8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 1
+        }
+      }
+    },
+    "QuartzCost": {
+      "id": "i16",
+      "earth_sepith_cost": "u16",
+      "water_sepith_cost": "u16",
+      "fire_sepith_cost": "u16",
+      "wind_sepith_cost": "u16",
+      "time_sepith_cost": "u16",
+      "space_sepith_cost": "u16",
+      "mirage_sepith_cost": "u16"
+    },
+    "QuizData": {
+      "id": "u32",
+      "question": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "answer_1": "c_utf8",
+      "answer_2": "c_utf8",
+      "answer_3": "c_utf8",
+      "answer_4": "c_utf8",
+      "comment": "c_utf8"
+    },
+    "ScoreParam": {
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16"
+    },
+    "SCraftLvBox": {
+      "name": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 3
+        }
+      },
+      "required_level": "u8",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "party": {
+        "repeat": {
+          "count": 4,
+          "type": {
+            "ref": "SCraftLvBox_upgrade"
+          }
+        }
+      }
+    },
+    "ScrambleRaidStrong": {
+      "enemy": "c_utf8",
+      "unknown_data": {
+        "bytes": {
+          "count": 10
+        }
+      }
+    },
+    "se": {
+      "id": "u16",
+      "unknown_string_1": "c_utf8",
+      "unknown_string_2": "c_utf8",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 2
+        }
+      },
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_data_2": {
+        "bytes": {
+          "count": 4
+        }
+      },
+      "unknown_float_3": "f32"
+    },
+    "SectionData": {
+      "unknown_data": {
+        "bytes": {
+          "count": 20
+        }
+      },
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "SlotCost": {
+      "slot_position": "i16",
+      "level": "i16",
+      "earth_sepith_cost": "u16",
+      "water_sepith_cost": "u16",
+      "fire_sepith_cost": "u16",
+      "wind_sepith_cost": "u16",
+      "time_sepith_cost": "u16",
+      "space_sepith_cost": "u16",
+      "mirage_sepith_cost": "u16"
+    },
+    "SlotEp": {
+      "character": "i16",
+      "slot_level": "i16",
+      "ep_base": "u16",
+      "ep_increase": {
+        "repeat": {
+          "count": 7,
+          "type": "i16"
+        }
+      }
+    },
+    "status": {
+      "script": "c_utf8",
+      "texture": "c_utf8",
+      "model": "c_utf8",
+      "model_scale": "f32",
+      "camera_pivot_height": "f32",
+      "hitbox_size": "f32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "is_female": "u8",
+      "level": "u8",
+      "hp_base": "u32",
+      "hp_growth": "f32",
+      "max_ep": "u16",
+      "start_ep": "u16",
+      "max_cp": "u16",
+      "start_cp": "u16",
+      "str_base": "u32",
+      "str_growth": "f32",
+      "def_base": "u32",
+      "def_growth": "f32",
+      "ats_base": "u32",
+      "ats_growth": "f32",
+      "adf_base": "u32",
+      "adf_growth": "f32",
+      "dex_base": "u16",
+      "dex_growth": "f32",
+      "agl_base": "u16",
+      "agl_growth": "f32",
+      "eva": "u16",
+      "spd_base": "u16",
+      "spd_growth": "f32",
+      "mov_base": "u16",
+      "mov_growth": "f32",
+      "exp_base": "u16",
+      "exp_growth": "f32",
+      "brk_mult_base": "u16",
+      "brk_mult_growth": "f32",
+      "earth_efficacy": "u8",
+      "water_efficacy": "u8",
+      "fire_efficacy": "u8",
+      "wind_efficacy": "u8",
+      "time_efficacy": "u8",
+      "space_efficacy": "u8",
+      "mirage_efficacy": "u8",
+      "psn_efficacy": "u8",
+      "seal_efficacy": "u8",
+      "mute_efficacy": "u8",
+      "blnd_efficacy": "u8",
+      "slp_efficacy": "u8",
+      "burn_efficacy": "u8",
+      "frz_efficacy": "u8",
+      "petr_efficacy": "u8",
+      "fnt_efficacy": "u8",
+      "conf_efficacy": "u8",
+      "chrm_efficacy": "u8",
+      "dblw_efficacy": "u8",
+      "nmr_efficacy": "u8",
+      "dlay_efficacy": "u8",
+      "vnsh_efficacy": "u8",
+      "s_dwn_efficacy": "u8",
+      "slash_efficacy": "u16",
+      "thrust_efficacy": "u16",
+      "pierce_efficacy": "u16",
+      "strike_efficacy": "u16",
+      "earth_sepith_base": "u8",
+      "water_sepith_base": "u8",
+      "fire_sepith_base": "u8",
+      "wind_sepith_base": "u8",
+      "time_sepith_base": "u8",
+      "space_sepith_base": "u8",
+      "mirage_sepith_base": "u8",
+      "sepith_mass_base": "u8",
+      "earth_sepith_growth": "f32",
+      "water_sepith_growth": "f32",
+      "fire_sepith_growth": "f32",
+      "wind_sepith_growth": "f32",
+      "time_sepith_growth": "f32",
+      "space_sepith_growth": "f32",
+      "mirage_sepith_growth": "f32",
+      "sepith_mass_growth": "f32",
+      "unknown_data_1": {
+        "bytes": {
+          "count": 14
+        }
+      },
+      "stat_variation_min": "f32",
+      "stat_variation_max": "f32",
+      "flags": "c_utf8",
+      "unknown_short": "i16",
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "status_p": {
+      "id": "i16",
+      "script": "c_utf8",
+      "texture": "c_utf8",
+      "model": "c_utf8",
+      "model_scale": "f32",
+      "camera_pivot_height": "f32",
+      "hitbox_size": "f32",
+      "unknown_float_1": "f32",
+      "unknown_float_2": "f32",
+      "unknown_float_3": "f32",
+      "unknown_float_4": "f32",
+      "unknown_short_1": "u16",
+      "unknown_short_2": "u16",
+      "is_female": "u8",
+      "level": "u8",
+      "hp_base": "u32",
+      "hp_growth": "f32",
+      "max_ep": "u16",
+      "start_ep": "u16",
+      "max_cp": "u16",
+      "start_cp": "u16",
+      "str_base": "u32",
+      "str_growth": "f32",
+      "def_base": "u32",
+      "def_growth": "f32",
+      "ats_base": "u32",
+      "ats_growth": "f32",
+      "adf_base": "u32",
+      "adf_growth": "f32",
+      "dex_base": "u16",
+      "dex_growth": "f32",
+      "agl_base": "u16",
+      "agl_growth": "f32",
+      "eva": "u16",
+      "spd_base": "u16",
+      "spd_growth": "f32",
+      "mov_base": "u16",
+      "mov_growth": "f32",
+      "exp_base": "u16",
+      "exp_growth": "f32",
+      "brk_mult_base": "u16",
+      "brk_mult_growth": "f32",
+      "earth_efficacy": "u8",
+      "water_efficacy": "u8",
+      "fire_efficacy": "u8",
+      "wind_efficacy": "u8",
+      "time_efficacy": "u8",
+      "space_efficacy": "u8",
+      "mirage_efficacy": "u8",
+      "psn_efficacy": "u8",
+      "seal_efficacy": "u8",
+      "mute_efficacy": "u8",
+      "blnd_efficacy": "u8",
+      "slp_efficacy": "u8",
+      "burn_efficacy": "u8",
+      "frz_efficacy": "u8",
+      "petr_efficacy": "u8",
+      "fnt_efficacy": "u8",
+      "conf_efficacy": "u8",
+      "chrm_efficacy": "u8",
+      "dblw_efficacy": "u8",
+      "nmr_efficacy": "u8",
+      "dlay_efficacy": "u8",
+      "vnsh_efficacy": "u8",
+      "s_dwn_efficacy": "u8",
+      "slash_efficacy": "u16",
+      "thrust_efficacy": "u16",
+      "pierce_efficacy": "u16",
+      "strike_efficacy": "u16",
+      "flags": "c_utf8",
+      "name": "c_utf8",
+      "description": "c_utf8"
+    },
+    "TacticalBonus": {
+      "id": "u16",
+      "name": "c_utf8",
+      "bonus": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 2
+        }
+      }
+    },
+    "TalkData": {
+      "id": "u32",
+      "text": "c_utf8"
+    },
+    "text_lst": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "TextTableData": {
+      "id": "u16",
+      "text": "c_utf8"
+    },
+    "voice": {
+      "id": "u16",
+      "unknown_text_1": "c_utf8",
+      "track": "c_utf8",
+      "unknown_short": "u16",
+      "unknown_float_1": "f32",
+      "unknown_data": {
+        "bytes": {
+          "count": 8
+        }
+      },
+      "unknown_float_2": "f32",
+      "text": "c_utf8"
+    },
+    "VoiceTimingInfo": {
+      "voice_chunk_length": "u32",
+      "voice_timing_length": "u32"
+    }
+  },
+  "common": {
+    "dlc_item": {
+      "id": "u16",
+      "count": "u16"
+    },
+    "effect": {
+      "id": "u16",
+      "data": {
+        "repeat": {
+          "count": 3,
+          "type": "i32"
+        }
+      }
+    },
+    "QSCook_ingredient": {
+      "id": "u16",
+      "count": "u16"
+    },
+    "SCraftLvBox_upgrade": {
+      "character": "i16",
+      "base_craft": "i16",
+      "upgraded_craft": "i16"
+    }
+  }
+}
