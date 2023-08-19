@@ -6,10 +6,10 @@ Randomizer for Trails into Reverie
 
 - Craft Randomizer
 - Brave Order Randomizer
+- Master Quartz Randomizer
 
 ## Upcoming Features
 
-- Master Quartz Randomizer (Priority: High)
 - Orbment Line Randomizer (Priority: High)
 - Stats & Enemies (Priority: Medium)
 - Treasure Chest (Priority: Low)

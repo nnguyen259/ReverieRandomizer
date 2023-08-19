@@ -6,6 +6,7 @@ from tkinter import filedialog, messagebox
 
 from frames.generalinfo import GeneralInfoFrame
 from frames.magic import CraftRandomizerFrame
+from frames.masterquartz import MasterQuartzRandomizerFrame
 
 
 class App(tkinter.Tk):
@@ -22,6 +23,7 @@ class App(tkinter.Tk):
         self.randomizers.grid(row=1, column=0, sticky="nsew")
 
         CraftRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
+        MasterQuartzRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
 
         self.randomize_button = ttk.Button(self, text="Randomize!", command=self.randomize)
         self.randomize_button.grid(row=2, column=0, pady=10)

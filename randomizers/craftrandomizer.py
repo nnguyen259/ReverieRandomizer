@@ -2,7 +2,7 @@ import json
 import random
 from pathlib import Path
 
-import randomizers.tblparser as tblparser
+import kisekiparser.tblparser as tblparser
 
 
 def randomize_craft(seed: str, directory: Path):

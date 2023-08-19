@@ -15,11 +15,11 @@ class CraftRandomizerFrame(ttk.Labelframe):
 
         self.randomize_order = tkinter.BooleanVar()
         self.randomize_order_button = ttk.Checkbutton(self, text="Randomize Brave Orders", variable=self.randomize_order)
-        self.randomize_order_button.grid(row=1, column=0, sticky="w")
+        self.randomize_order_button.grid(row=0, column=1, sticky="w")
 
         self.ignore_nadia = tkinter.BooleanVar()
         self.ignore_nadia_button = ttk.Checkbutton(self, text="Ignore Analysis Complete", variable=self.ignore_nadia)
-        self.ignore_nadia_button.grid(row=2, column=0, sticky="w")
+        self.ignore_nadia_button.grid(row=1, column=1, sticky="w")
 
         for slave in self.grid_slaves():
             slave.grid_configure(padx=15)
