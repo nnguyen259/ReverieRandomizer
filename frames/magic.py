@@ -13,6 +13,10 @@ class CraftRandomizerFrame(ttk.Labelframe):
         self.randomize_craft_button = ttk.Checkbutton(self, text="Randomize Crafts", variable=self.randomize_craft)
         self.randomize_craft_button.grid(row=0, column=0, sticky="w")
 
+        self.randomize_arts = tkinter.BooleanVar()
+        self.randomize_arts_button = ttk.Checkbutton(self, text="Randomize Arts", variable=self.randomize_arts)
+        self.randomize_arts_button.grid(row=1, column=0, sticky="w")
+
         self.randomize_order = tkinter.BooleanVar()
         self.randomize_order_button = ttk.Checkbutton(self, text="Randomize Brave Orders", variable=self.randomize_order)
         self.randomize_order_button.grid(row=0, column=1, sticky="w")
@@ -29,5 +33,7 @@ class CraftRandomizerFrame(ttk.Labelframe):
     def randomize(self, seed, directory: Path):
         if self.randomize_craft.get():
             randomizer.randomize_craft(seed, directory)
+        if self.randomize_arts.get():
+            randomizer.randomize_arts(seed, directory)
         if self.randomize_order.get():
             randomizer.randomize_order(seed, directory, self.ignore_nadia.get())
