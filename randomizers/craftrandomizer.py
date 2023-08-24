@@ -6,7 +6,7 @@ import kisekiparser.tblparser as tblparser
 
 
 def randomize_craft(seed: str, directory: Path):
-    random.seed(seed)
+    local_random = random.Random(seed)
 
     with open("setup/char_moveset.json", "r", encoding="utf8") as movesetfile:
         movesets = json.load(movesetfile)
@@ -17,8 +17,8 @@ def randomize_craft(seed: str, directory: Path):
     with open("setup/solo.json", "r", encoding="utf8") as solofile:
         solo = json.load(solofile)
 
-    random.shuffle(upgrade)
-    random.shuffle(solo)
+    local_random.shuffle(upgrade)
+    local_random.shuffle(solo)
 
     result = dict()
     result_text = dict()
@@ -48,7 +48,6 @@ def randomize_craft(seed: str, directory: Path):
                 result_text[character].append(f"{old_base[-1]} -> {base[-1]}")
 
     with open(f"results/{seed}/crafts.txt", "w", encoding="utf8") as resultfile:
-        resultfile.write(f"Seed: {seed}\n\n")
         for values in result_text.values():
             resultfile.write("\n".join(values))
             resultfile.write("\n")
@@ -72,14 +71,14 @@ def randomize_craft(seed: str, directory: Path):
 
 
 def randomize_order(seed: str, directory: Path, ignore_nadia: bool = False):
-    random.seed(seed)
+    local_random = random.Random(seed)
 
     with open("setup/brave_orders.json", "r", encoding="utf8") as orderfile:
         orders = json.load(orderfile)
 
-    random.shuffle(orders)
+    local_random.shuffle(orders)
 
-    result = f"Seed: {seed}\n\n"
+    result = ""
 
     with open(directory / "data/text/dat_en/t_magic.tbl", "rb") as magicfile:
         table = tblparser.parse_table(magicfile)
@@ -97,6 +96,35 @@ def randomize_order(seed: str, directory: Path, ignore_nadia: bool = False):
 
     with open(f"results/{seed}/orders.txt", "w", encoding="utf8") as resultfile:
         resultfile.write(result)
+
+    with open(directory / "data/text/dat_en/t_magic.tbl", "wb") as outputfile:
+        outputfile.write(tblparser.construct_table(table))
+
+
+def randomize_arts(seed: str, directory: Path):
+    local_random = random.Random(seed)
+
+    with open("setup/arts.json", "r", encoding="utf8") as orderfile:
+        arts = json.load(orderfile)
+
+    local_random.shuffle(arts)
+
+    with open(directory / "data/text/dat_en/t_magic.tbl", "rb") as magicfile:
+        table = tblparser.parse_table(magicfile)
+
+    results = ""
+
+    for entry in table["entries"]:
+        if entry["header"] == "magic" and entry["category"] == 20:
+            new_art = arts.pop()
+            results += f'{new_art[-1]} -> {entry["name"]}\n'
+            entry["id"] = new_art[0]
+            entry["sort_id"] = new_art[1]
+            entry["animation"] = new_art[2]
+            entry["name"] = new_art[3]
+
+    with open(f"results/{seed}/arts.txt", "w", encoding="utf8") as resultfile:
+        resultfile.write(results)
 
     with open(directory / "data/text/dat_en/t_magic.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))

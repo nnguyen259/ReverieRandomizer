@@ -8,7 +8,7 @@ from pathlib import Path
 def randomize_master_quartz(
     seed: str, directory: Path, randomize_mode: Literal["whole", "slot", "all"] = "whole", selection_mode: Literal["shuffle", "random"] = "shuffle"
 ):
-    random.seed(seed)
+    local_random = random.Random(seed)
 
     with open("setup/mq_ability_text.json", encoding="utf8") as abilitytextfile:
         master_quartz_ability_text = json.load(abilitytextfile)
@@ -31,33 +31,33 @@ def randomize_master_quartz(
     if randomize_mode == "whole":
         if selection_mode == "shuffle":
             new_skill_ids = skill_ids
-            random.shuffle(new_skill_ids)
+            local_random.shuffle(new_skill_ids)
         else:
-            new_skill_ids = random.choices(skill_ids, k=len(skill_ids))
+            new_skill_ids = local_random.choices(skill_ids, k=len(skill_ids))
     elif randomize_mode == "slot":
         skill_1, skill_2, skill_3 = map(list, list(zip(*skill_ids)))
-        random.shuffle(skill_1)
-        random.shuffle(skill_2)
-        random.shuffle(skill_3)
+        local_random.shuffle(skill_1)
+        local_random.shuffle(skill_2)
+        local_random.shuffle(skill_3)
 
         for _ in range(len(skill_ids)):
             if selection_mode == "shuffle":
                 new_skill_ids.append([skill_1.pop(), skill_2.pop(), skill_3.pop()])
             else:
-                new_skill_ids.append([random.choice(skill_1), random.choice(skill_2), random.choice(skill_3)])
+                new_skill_ids.append([local_random.choice(skill_1), local_random.choice(skill_2), local_random.choice(skill_3)])
     else:
         skill_1, skill_2, skill_3 = map(list, list(zip(*skill_ids)))
         skills = []
         skills.extend(skill_1)
         skills.extend(skill_2)
         skills.extend(skill_3)
-        random.shuffle(skills)
+        local_random.shuffle(skills)
 
         for _ in range(len(skill_ids)):
             if selection_mode == "shuffle":
                 new_skill_ids.append([skills.pop(), skills.pop(), skills.pop()])
             else:
-                new_skill_ids.append(random.choices(skills, k=3))
+                new_skill_ids.append(local_random.choices(skills, k=3))
 
     skill_ids = new_skill_ids
 
@@ -112,20 +112,20 @@ def randomize_master_quartz(
 
 
 def randomize_master_quartz_stats(seed: str, directory: Path):
-    random.seed(seed)
+    local_random = random.Random(seed)
 
     with open(directory / "data/text/dat_en/t_mstqrt.tbl", "rb") as magicfile:
         table = tblparser.parse_table(magicfile)
 
     for entry in table["entries"]:
         if entry["header"] == "MasterQuartzBase":
-            entry["hp_pattern"] = random.randint(0, 5)
-            entry["ep_pattern"] = random.randint(0, 5)
-            entry["str_pattern"] = random.randint(0, 5)
-            entry["def_pattern"] = random.randint(0, 5)
-            entry["ats_pattern"] = random.randint(0, 5)
-            entry["adf_pattern"] = random.randint(0, 5)
-            entry["spd_pattern"] = random.randint(0, 5)
+            entry["hp_pattern"] = local_random.randint(0, 5)
+            entry["ep_pattern"] = local_random.randint(0, 5)
+            entry["str_pattern"] = local_random.randint(0, 5)
+            entry["def_pattern"] = local_random.randint(0, 5)
+            entry["ats_pattern"] = local_random.randint(0, 5)
+            entry["adf_pattern"] = local_random.randint(0, 5)
+            entry["spd_pattern"] = local_random.randint(0, 5)
 
     with open(directory / "data/text/dat_en/t_mstqrt.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
