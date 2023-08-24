@@ -8,6 +8,7 @@ from pathlib import Path
 def randomize_master_quartz(
     seed: str, directory: Path, randomize_mode: Literal["whole", "slot", "all"] = "whole", selection_mode: Literal["shuffle", "random"] = "shuffle"
 ):
+    print("Starting MQ Abilities Randomizer")
     local_random = random.Random(seed)
 
     with open("setup/mq_ability_text.json", encoding="utf8") as abilitytextfile:
@@ -110,8 +111,11 @@ def randomize_master_quartz(
     with open(directory / "data/text/dat_en/t_mstqrt.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
 
+    print("MQ Abilities Randomizer Finished!")
+
 
 def randomize_master_quartz_stats(seed: str, directory: Path):
+    print("Starting MQ Stats Randomizer")
     local_random = random.Random(seed)
 
     with open(directory / "data/text/dat_en/t_mstqrt.tbl", "rb") as magicfile:
@@ -129,3 +133,5 @@ def randomize_master_quartz_stats(seed: str, directory: Path):
 
     with open(directory / "data/text/dat_en/t_mstqrt.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
+
+    print("MQ Stats Randomizer Finished!")

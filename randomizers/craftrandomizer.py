@@ -6,6 +6,7 @@ import kisekiparser.tblparser as tblparser
 
 
 def randomize_craft(seed: str, directory: Path):
+    print("Starting Craft Randomizer")
     local_random = random.Random(seed)
 
     with open("setup/char_moveset.json", "r", encoding="utf8") as movesetfile:
@@ -69,8 +70,11 @@ def randomize_craft(seed: str, directory: Path):
     with open(directory / "data/text/dat_en/t_magic.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
 
+    print("Craft Randomizer Finished!")
+
 
 def randomize_order(seed: str, directory: Path, ignore_nadia: bool = False):
+    print("Starting Brave Orders Randomizer")
     local_random = random.Random(seed)
 
     with open("setup/brave_orders.json", "r", encoding="utf8") as orderfile:
@@ -100,8 +104,11 @@ def randomize_order(seed: str, directory: Path, ignore_nadia: bool = False):
     with open(directory / "data/text/dat_en/t_magic.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
 
+    print("Brave Orders Randomizer Finished!")
+
 
 def randomize_arts(seed: str, directory: Path):
+    print("Starting Arts Randomizer")
     local_random = random.Random(seed)
 
     with open("setup/arts.json", "r", encoding="utf8") as orderfile:
@@ -128,3 +135,5 @@ def randomize_arts(seed: str, directory: Path):
 
     with open(directory / "data/text/dat_en/t_magic.tbl", "wb") as outputfile:
         outputfile.write(tblparser.construct_table(table))
+
+    print("Arts Randomizer Finished!")

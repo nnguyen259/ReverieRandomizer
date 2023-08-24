@@ -4,7 +4,6 @@ import random
 import shlex
 import shutil
 import subprocess
-import time
 import multiprocessing
 from pathlib import Path
 
@@ -154,6 +153,7 @@ def do_randomize(seed: str, directory: Path, visitor: ChestVisitor, maps: list):
 
 
 def randomize_chest(seed: str, directory: Path):
+    print("Starting Chests Randomizer")
     local_random = random.Random(seed)
     local_random.shuffle(master_quartz)
     processes = list()
@@ -183,3 +183,5 @@ def randomize_chest(seed: str, directory: Path):
         process.join()
     os.chdir(current_dir)
     shutil.rmtree(f"tmp/{seed}")
+
+    print("Chests Randomizer Finished!")

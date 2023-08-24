@@ -1,14 +1,14 @@
 import os
 import threading
-from pathlib import Path
 import tkinter
-from tkinter import ttk
-from tkinter import filedialog, messagebox
+from multiprocessing import freeze_support
+from pathlib import Path
+from tkinter import filedialog, messagebox, ttk
 
+from frames.experimental import ExperimentalFrame
 from frames.generalinfo import GeneralInfoFrame
 from frames.magic import CraftRandomizerFrame
 from frames.masterquartz import MasterQuartzRandomizerFrame
-from frames.experimental import ExperimentalFrame
 
 
 class App(tkinter.Tk):
@@ -40,6 +40,7 @@ class App(tkinter.Tk):
                 return
 
             self.general_frame.status.set("Randomizing...")
+            print("Starting Randomizer")
             os.makedirs(f"results/{seed}", exist_ok=True)
             for randomizer in self.randomizers.pack_slaves():
                 randomizer.randomize(seed, Path(directory))
@@ -53,5 +54,6 @@ class App(tkinter.Tk):
 
 
 if __name__ == "__main__":
+    freeze_support()
     app = App()
     app.mainloop()
