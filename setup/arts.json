@@ -1,0 +1,308 @@
+[
+    [
+        20,
+        0,
+        "AniBtlArtsEarth00",
+        "Needle Shoot"
+    ],
+    [
+        21,
+        1,
+        "AniBtlArtsEarth01",
+        "Ivy Nail"
+    ],
+    [
+        22,
+        2,
+        "AniBtlArtsEarth02",
+        "Megalith Fall"
+    ],
+    [
+        23,
+        3,
+        "AniBtlArtsEarth03",
+        "Gravion Hammer"
+    ],
+    [
+        24,
+        4,
+        "AniBtlArtsEarth04",
+        "Earth Pulse"
+    ],
+    [
+        25,
+        5,
+        "AniBtlArtsEarth05",
+        "Crest"
+    ],
+    [
+        26,
+        6,
+        "AniBtlArtsEarth06",
+        "La Crest"
+    ],
+    [
+        27,
+        7,
+        "AniBtlArtsEarth07",
+        "Adamantine Shield"
+    ],
+    [
+        35,
+        0,
+        "AniBtlArtsWater00",
+        "Aqua Bleed"
+    ],
+    [
+        36,
+        1,
+        "AniBtlArtsWater01",
+        "Crystal Edge"
+    ],
+    [
+        37,
+        2,
+        "AniBtlArtsWater02",
+        "Blue Ascension"
+    ],
+    [
+        38,
+        3,
+        "AniBtlArtsWater03",
+        "Diamond Nova"
+    ],
+    [
+        39,
+        4,
+        "AniBtlArtsWater04",
+        "Tear"
+    ],
+    [
+        40,
+        5,
+        "AniBtlArtsWater05",
+        "Teara"
+    ],
+    [
+        41,
+        6,
+        "AniBtlArtsWater06",
+        "Tearal"
+    ],
+    [
+        42,
+        7,
+        "AniBtlArtsWater07",
+        "Curia"
+    ],
+    [
+        43,
+        8,
+        "AniBtlArtsWater08",
+        "Thelas"
+    ],
+    [
+        44,
+        9,
+        "AniBtlArtsWater09",
+        "Athelas"
+    ],
+    [
+        50,
+        0,
+        "AniBtlArtsFire00",
+        "Fire Bolt"
+    ],
+    [
+        51,
+        1,
+        "AniBtlArtsFire01",
+        "Venom Flame"
+    ],
+    [
+        52,
+        2,
+        "AniBtlArtsFire02",
+        "Flare Butterfly"
+    ],
+    [
+        53,
+        3,
+        "AniBtlArtsFire03",
+        "Zeruel Cannon"
+    ],
+    [
+        54,
+        4,
+        "AniBtlArtsFire04",
+        "Impassion"
+    ],
+    [
+        55,
+        5,
+        "AniBtlArtsFire05",
+        "Forte"
+    ],
+    [
+        56,
+        6,
+        "AniBtlArtsFire06",
+        "La Forte"
+    ],
+    [
+        57,
+        7,
+        "AniBtlArtsFire07",
+        "Heat Up"
+    ],
+    [
+        65,
+        0,
+        "AniBtlArtsWind00",
+        "Air Strike"
+    ],
+    [
+        66,
+        1,
+        "AniBtlArtsWind01",
+        "Nemesis Arrow"
+    ],
+    [
+        67,
+        2,
+        "AniBtlArtsWind02",
+        "Aerial Dust"
+    ],
+    [
+        68,
+        3,
+        "AniBtlArtsWind03",
+        "Ixion Volt"
+    ],
+    [
+        70,
+        5,
+        "AniBtlArtsWind05",
+        "Breath"
+    ],
+    [
+        71,
+        6,
+        "AniBtlArtsWind06",
+        "Holy Breath"
+    ],
+    [
+        72,
+        7,
+        "AniBtlArtsWind07",
+        "Recuria"
+    ],
+    [
+        80,
+        60,
+        "AniBtlArtsTime00",
+        "Soul Blur"
+    ],
+    [
+        81,
+        61,
+        "AniBtlArtsTime01",
+        "Calvary Edge"
+    ],
+    [
+        82,
+        62,
+        "AniBtlArtsTime02",
+        "Lost Genesis"
+    ],
+    [
+        83,
+        64,
+        "AniBtlArtsTime03",
+        "Chrono Drive"
+    ],
+    [
+        84,
+        65,
+        "AniBtlArtsTime04",
+        "Chrono Break"
+    ],
+    [
+        85,
+        66,
+        "AniBtlArtsTime05",
+        "Chrono Burst"
+    ],
+    [
+        95,
+        75,
+        "AniBtlArtsGold00",
+        "Golden Sphere"
+    ],
+    [
+        96,
+        76,
+        "AniBtlArtsGold01",
+        "Cross Crusade"
+    ],
+    [
+        97,
+        77,
+        "AniBtlArtsGold02",
+        "Seventh Caliber"
+    ],
+    [
+        98,
+        79,
+        "AniBtlArtsGold03",
+        "Fortuna"
+    ],
+    [
+        99,
+        80,
+        "AniBtlArtsGold04",
+        "Shining"
+    ],
+    [
+        100,
+        81,
+        "AniBtlArtsGold05",
+        "Seraphic Ring"
+    ],
+    [
+        110,
+        91,
+        "AniBtlArtsSilver00",
+        "Silver Thorn"
+    ],
+    [
+        111,
+        92,
+        "AniBtlArtsSilver01",
+        "Galion Fort"
+    ],
+    [
+        112,
+        93,
+        "AniBtlArtsSilver02",
+        "Albion Wolf"
+    ],
+    [
+        113,
+        94,
+        "AniBtlArtsSilver03",
+        "Analyze"
+    ],
+    [
+        114,
+        95,
+        "AniBtlArtsSilver04",
+        "Saintly Force"
+    ],
+    [
+        115,
+        96,
+        "AniBtlArtsSilver05",
+        "Crescent Mirror"
+    ]
+]
