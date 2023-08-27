@@ -1,0 +1,60 @@
+{
+    "odds": [
+        50,
+        50
+    ],
+    "categories": {
+        "acc": [
+            "Zero Halo",
+            "Graceful Aura",
+            "Logical Aura",
+            "Scrappy Halo",
+            "Brave Aura",
+            "Astute Halo",
+            "Lunar Aura",
+            "Steel Halo",
+            "Roseate Aura",
+            "Temperate Halo",
+            "Black Aura",
+            "Brilliance Aura",
+            "Roaring Halo",
+            "Jade Halo",
+            "Amber Aura",
+            "Nimble Halo",
+            "Devoted Aura",
+            "Heavenly Aura",
+            "Resonant Halo",
+            "Gallant Aura",
+            "Learned Halo",
+            "Sage Aura",
+            "Arresting Halo",
+            "Keen Aura",
+            "Everlasting Halo",
+            "White Aura",
+            "Flickering Aura",
+            "Azure Halo",
+            "Space Aura",
+            "Nebulous Aura",
+            "Spellbound Aura",
+            "Ingenious Aura",
+            "Intuitive Halo",
+            "Solar Aura",
+            "Shadowed Halo",
+            "Slaughterous Aura",
+            "Engineering Aura",
+            "Belligerent Halo",
+            "Penitent Halo",
+            "Purity Aura"
+        ],
+        "others": [
+            "Genesis Orb",
+            "Solomon Garb",
+            "Prominence Sol",
+            "Leanan's Touch",
+            "Grail Therion",
+            "Frozen Epochs",
+            "Primordial Emperor",
+            "Melville Arc"
+        ]
+    }
+}

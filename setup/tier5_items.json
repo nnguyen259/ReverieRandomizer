@@ -1,0 +1,74 @@
+{
+    "odds": [
+        18,
+        18,
+        18,
+        18,
+        28
+    ],
+    "categories": {
+        "stat_quartz": [
+            "Dazzling Rakan Gem",
+            "Dazzling Amberl Gem",
+            "Dazzling Sennin Gem",
+            "Dazzling Sapphirl Gem",
+            "Dazzling Mars Gem",
+            "Dazzling Carnelia Gem",
+            "Dazzling Zeus Gem",
+            "Dazzling Esmelas Gem",
+            "Dazzling Skanda Gem",
+            "Dazzling Diabolos Gem",
+            "Dazzling Nohval Gem",
+            "Dazzling Golden Gem",
+            "Dazzling Deus Gem",
+            "Dazzling Sevenfold Gem",
+            "Dazzling Argem Gem",
+            "Dazzling Fenrir Gem"
+        ],
+        "aliment_quartz": [
+            "True Genbu",
+            "True Seiryuu",
+            "True Suzaku",
+            "True Byakko",
+            "True Umbral Gyre",
+            "True Solar Gyre",
+            "True Tamamo Gem",
+            "True Lunar Gyre"
+        ],
+        "special_quartz": [
+            "Kagura",
+            "True Waterfall",
+            "Lion King",
+            "True Revolution",
+            "Dazzling Aeolus Gem",
+            "Kyoukotsu",
+            "True Hades Gem",
+            "True Domination",
+            "Ryuuko"
+        ],
+        "art_quartz": [
+            "Prominence Nova",
+            "Leanan's Kiss",
+            "Grail Thelas",
+            "Frozen Epoch",
+            "Aeonian Emperor",
+            "Melville Ray"
+        ],
+        "others": [
+            "Black Zemurian Ore",
+            "Dragon Incense",
+            "Dire Gladiator Headband",
+            "Dire Gladiator Belt",
+            "Zero Hour Puppet",
+            "Pure Deep Ocher",
+            "Pure Still Blue",
+            "Pure Passionate Rouge",
+            "Pure Evergreen",
+            "Pure Abyss Shadow",
+            "Grail Locket Ur",
+            "Grail Locket Loa",
+            "Theseus Ring",
+            "Ares Belt"
+        ]
+    }
+}
