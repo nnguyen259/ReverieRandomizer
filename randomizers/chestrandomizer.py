@@ -19,11 +19,11 @@ master_quartz = [3607, 3598, 3593, 3599, 3594, 3600, 3606, 3614, 3605, 3640, 361
 multi_chest_options = [(300, 300), (310, 3000), (311, 3000), (312, 3000), (313, 3000), (314, 3000), (315, 3000), (316, 3000),
                        (303, 200), (50, 40), (51, 40), (52, 40), (53, 40), (54, 40)]
 
-chest_chances = [[40, 35, 10, 5, 5, 5],
-                 [20, 40, 20, 10, 5, 5],
-                 [0, 20, 40, 20, 15, 5],
-                 [0, 0, 10, 50, 35, 5],
-                 [0, 0, 0, 30, 65, 5]]
+chest_chances = [[20, 55, 10, 5, 5, 5],
+                 [0, 40, 30, 15, 10, 5],
+                 [0, 0, 45, 30, 15, 10],
+                 [0, 0, 0, 55, 35, 10],
+                 [0, 0, 0, 0, 80, 20]]
 
 
 # fmt: on
@@ -34,6 +34,9 @@ class ChestVisitor(libcst.CSTTransformer):
         self.multi_chest_items = multi_chest_items
         self.chest_index = dict()
         self.randomizer = randomizer
+
+    def clean_index(self):
+        self.chest_index = dict()
 
     def leave_Call(self, original_node: libcst.Call, updated_node: libcst.Call):
         if original_node.func.value == "ModelCmd" and original_node.args[0].value.value == "0x0D":
@@ -124,6 +127,7 @@ def do_randomize(seed: str, directory: Path, visitor: ChestVisitor, maps: list):
         with open(f"{map_name}.py", "w", encoding="utf") as mapfile:
             mapfile.write(map_cst.code)
 
+        visitor.clean_index()
         subprocess.run(shlex.split(f"py2scena.exe {map_name}.py"), stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         os.remove(f"{map_name}.py")
 

@@ -1,0 +1,486 @@
+{
+    "0": {
+        "C_CHR000": {
+            "default_face": "C_CHR000_FC1",
+            "face": "FC_CHR000",
+            "cutin": "C000",
+            "cutin_id": 0
+        }
+    },
+    "1": {
+        "C_CHR001": {
+            "default_face": "C_CHR001_FC1",
+            "face": "FC_CHR001",
+            "cutin": "C001",
+            "cutin_id": 0
+        }
+    },
+    "2": {
+        "C_CHR002": {
+            "default_face": "C_CHR002_FC1",
+            "face": "FC_CHR002",
+            "cutin": "C002",
+            "cutin_id": 0
+        }
+    },
+    "3": {
+        "C_CHR003": {
+            "default_face": "C_CHR003_FC1",
+            "face": "FC_CHR003",
+            "cutin": "C003",
+            "cutin_id": 0
+        }
+    },
+    "4": {
+        "C_CHR004": {
+            "default_face": "C_CHR004_FC1",
+            "face": "FC_CHR004",
+            "cutin": "C004",
+            "cutin_id": 0
+        }
+    },
+    "5": {
+        "C_CHR005_C10": {
+            "default_face": "C_CHR005_FC1",
+            "face": "FC_CHR005",
+            "cutin": "C005_C10",
+            "cutin_id": 0
+        }
+    },
+    "6": {
+        "C_CHR006": {
+            "default_face": "C_CHR006_FC1",
+            "face": "FC_CHR006",
+            "cutin": "C006",
+            "cutin_id": 0
+        }
+    },
+    "7": {
+        "C_CHR007": {
+            "default_face": "C_CHR007_FC1",
+            "face": "FC_CHR007",
+            "cutin": "C007",
+            "cutin_id": 0
+        }
+    },
+    "8": {
+        "C_CHR008": {
+            "default_face": "C_CHR008_FC1",
+            "face": "FC_CHR008",
+            "cutin": "C008",
+            "cutin_id": 0
+        }
+    },
+    "9": {
+        "C_CHR009": {
+            "default_face": "C_CHR009_FC1",
+            "face": "FC_CHR009",
+            "cutin": "C009",
+            "cutin_id": 0
+        }
+    },
+    "10": {
+        "C_CHR011": {
+            "default_face": "C_CHR011_FC1",
+            "face": "FC_CHR011",
+            "cutin": "C011",
+            "cutin_id": 0
+        },
+        "C_CHR011_C10": {
+            "default_face": "C_CHR011_FC1",
+            "face": "FC_CHR011",
+            "cutin": "C011_C10",
+            "cutin_id": 1
+        }
+    },
+    "11": {
+        "C_CHR010": {
+            "default_face": "C_CHR010_FC1",
+            "face": "FC_CHR010",
+            "cutin": "C010",
+            "cutin_id": 0
+        },
+        "C_CHR010_C10": {
+            "default_face": "C_CHR010_FC1",
+            "face": "FC_CHR010",
+            "cutin": "C010_C10",
+            "cutin_id": 1
+        }
+    },
+    "12": {
+        "C_CHR015": {
+            "default_face": "C_CHR015_FC1",
+            "face": "FC_CHR015",
+            "cutin": "C015",
+            "cutin_id": 0
+        },
+        "C_CHR015_C10": {
+            "default_face": "C_CHR015_FC1",
+            "face": "FC_CHR015",
+            "cutin": "C015_C10",
+            "cutin_id": 1
+        }
+    },
+    "13": {
+        "C_CHR013": {
+            "default_face": "C_CHR013_FC1",
+            "face": "FC_CHR013",
+            "cutin": "C013",
+            "cutin_id": 0
+        },
+        "C_CHR013_C10": {
+            "default_face": "C_CHR013_FC1",
+            "face": "FC_CHR013",
+            "cutin": "C013_C10",
+            "cutin_id": 1
+        }
+    },
+    "14": {
+        "C_CHR012": {
+            "default_face": "C_CHR012_FC1",
+            "face": "FC_CHR012",
+            "cutin": "C012",
+            "cutin_id": 0
+        },
+        "C_CHR012_C10": {
+            "default_face": "C_CHR012_FC1",
+            "face": "FC_CHR012",
+            "cutin": "C012_C10",
+            "cutin_id": 1
+        }
+    },
+    "15": {
+        "C_CHR017": {
+            "default_face": "C_CHR017_FC1",
+            "face": "FC_CHR017",
+            "cutin": "C017",
+            "cutin_id": 0
+        }
+    },
+    "16": {
+        "C_CHR021": {
+            "default_face": "C_CHR021_FC1",
+            "face": "FC_CHR021",
+            "cutin": "C021",
+            "cutin_id": 0
+        }
+    },
+    "17": {
+        "C_CHR016": {
+            "default_face": "C_CHR016_FC1",
+            "face": "FC_CHR016",
+            "cutin": "C016",
+            "cutin_id": 0
+        }
+    },
+    "18": {
+        "C_CHR019": {
+            "default_face": "C_CHR019_FC1",
+            "face": "FC_CHR019",
+            "cutin": "C019",
+            "cutin_id": 0
+        }
+    },
+    "19": {
+        "C_CHR018_C03": {
+            "default_face": "C_CHR018_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C018_C03",
+            "cutin_id": 0
+        }
+    },
+    "20": {
+        "C_CHR027": {
+            "default_face": "C_CHR027_FC1",
+            "face": "FC_CHR027",
+            "cutin": "C027",
+            "cutin_id": 0
+        }
+    },
+    "21": {
+        "C_CHR029": {
+            "default_face": "C_CHR029_FC1",
+            "face": "FC_CHR029",
+            "cutin": "C029",
+            "cutin_id": 0
+        }
+    },
+    "22": {
+        "C_CHR025": {
+            "default_face": "C_CHR025_FC1",
+            "face": "FC_CHR025",
+            "cutin": "C025",
+            "cutin_id": 0
+        },
+        "C_CHR025_C01": {
+            "default_face": "C_CHR025_FC1",
+            "face": "FC_CHR025",
+            "cutin": "C025_C01",
+            "cutin_id": 2
+        }
+    },
+    "23": {
+        "C_CHR028_C10": {
+            "default_face": "C_CHR028_FC1",
+            "face": "FC_CHR028_C49",
+            "cutin": "C028_C10",
+            "cutin_id": 1
+        }
+    },
+    "24": {
+        "C_CHR045": {
+            "default_face": "C_CHR045_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C045",
+            "cutin_id": 0
+        }
+    },
+    "25": {
+        "C_CHR046": {
+            "default_face": "C_CHR046_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C046",
+            "cutin_id": 0
+        }
+    },
+    "26": {
+        "C_CHR081": {
+            "default_face": "C_CHR081_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C081",
+            "cutin_id": 0
+        }
+    },
+    "27": {
+        "C_CHR080": {
+            "default_face": "C_CHR080_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C080",
+            "cutin_id": 0
+        }
+    },
+    "28": {
+        "C_CHR083": {
+            "default_face": "C_CHR083_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C083",
+            "cutin_id": 0
+        }
+    },
+    "29": {
+        "C_CHR088": {
+            "default_face": "C_CHR088_FC1",
+            "face": "FC_CHR088",
+            "cutin": "C088",
+            "cutin_id": 0
+        }
+    },
+    "30": {
+        "C_CHR089": {
+            "default_face": "C_CHR089_FC1",
+            "face": "FC_CHR089",
+            "cutin": "C089",
+            "cutin_id": 0
+        }
+    },
+    "31": {
+        "C_CHR042": {
+            "default_face": "C_CHR042_FC1",
+            "face": "FC_CHR042",
+            "cutin": "C042",
+            "cutin_id": 0
+        },
+        "C_CHR042_C68": {
+            "default_face": "C_CHR042_FC1",
+            "face": "FC_CHR042",
+            "cutin": "C042",
+            "cutin_id": 0
+        }
+    },
+    "32": {
+        "C_CHR067": {
+            "default_face": "C_CHR067_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C067",
+            "cutin_id": 0
+        }
+    },
+    "33": {
+        "C_CHR072": {
+            "default_face": "C_CHR072_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C072",
+            "cutin_id": 0
+        }
+    },
+    "34": {
+        "C_CHR026_C10": {
+            "default_face": "C_CHR026_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C026_C10",
+            "cutin_id": 0
+        }
+    },
+    "35": {
+        "C_CHR035": {
+            "default_face": "C_CHR035_FC1",
+            "face": "FC_CHR035",
+            "cutin": "C035",
+            "cutin_id": 0
+        },
+        "C_CHR035_C00": {
+            "default_face": "C_CHR035_FC1",
+            "face": "FC_CHR035",
+            "cutin": "C035_C00",
+            "cutin_id": 1
+        }
+    },
+    "36": {
+        "C_CHR097": {
+            "default_face": "C_CHR097_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C097",
+            "cutin_id": 0
+        }
+    },
+    "37": {
+        "C_CHR041": {
+            "default_face": "C_CHR041_FC1",
+            "face": "FC_CHR041",
+            "cutin": "C041",
+            "cutin_id": 0
+        }
+    },
+    "38": {
+        "C_CHR043": {
+            "default_face": "C_CHR043_FC1",
+            "face": "FC_CHR043",
+            "cutin": "C043",
+            "cutin_id": 0
+        }
+    },
+    "39": {
+        "C_CHR063": {
+            "default_face": "C_CHR063_FC1",
+            "face": "FC_CHR063",
+            "cutin": "C063",
+            "cutin_id": 0
+        }
+    },
+    "40": {
+        "C_CHR105": {
+            "default_face": "C_CHR105_FC1",
+            "face": "FC_CHR105",
+            "cutin": "C105",
+            "cutin_id": 0
+        },
+        "C_CHR105_C00": {
+            "default_face": "C_CHR105_FC1",
+            "face": "FC_CHR105",
+            "cutin": "C105",
+            "cutin_id": 0
+        }
+    },
+    "41": {
+        "C_CHR106": {
+            "default_face": "C_CHR106_FC1",
+            "face": "FC_CHR106",
+            "cutin": "C106",
+            "cutin_id": 0
+        }
+    },
+    "42": {
+        "C_CHR107": {
+            "default_face": "C_CHR107_FC1",
+            "face": "FC_CHR107",
+            "cutin": "C107",
+            "cutin_id": 0
+        }
+    },
+    "43": {
+        "C_CHR108": {
+            "default_face": "C_CHR108_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C108",
+            "cutin_id": 0
+        }
+    },
+    "44": {
+        "C_CHR112": {
+            "default_face": "C_CHR112_FC1",
+            "face": "FC_CHR112_C00",
+            "cutin": "C112",
+            "cutin_id": 0
+        },
+        "C_CHR112_C00": {
+            "default_face": "C_CHR112_FC1",
+            "face": "FC_CHR112_C00",
+            "cutin": "C112_C00",
+            "cutin_id": 1
+        }
+    },
+    "45": {
+        "C_CHR113": {
+            "default_face": "C_CHR113_FC1",
+            "face": "FC_CHR113",
+            "cutin": "C113",
+            "cutin_id": 0
+        }
+    },
+    "46": {
+        "C_CHR110": {
+            "default_face": "C_CHR110_FC1",
+            "face": "FC_CHR110",
+            "cutin": "C110",
+            "cutin_id": 0
+        }
+    },
+    "47": {
+        "C_CHR111": {
+            "default_face": "C_CHR111_FC1",
+            "face": "FC_CHR111",
+            "cutin": "C111",
+            "cutin_id": 0
+        }
+    },
+    "48": {
+        "C_CHR023_C00": {
+            "default_face": "C_CHR023_FC1",
+            "face": "FC_CHR023",
+            "cutin": "C023_C00",
+            "cutin_id": 0
+        }
+    },
+    "49": {
+        "C_CHR024": {
+            "default_face": "C_CHR024_FC1",
+            "face": "FC_CHR024",
+            "cutin": "C024",
+            "cutin_id": 0
+        }
+    },
+    "50": {
+        "C_CHR034": {
+            "default_face": "C_CHR034_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C034",
+            "cutin_id": 0
+        }
+    },
+    "52": {
+        "C_CHR091": {
+            "default_face": "C_CHR091_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C091",
+            "cutin_id": 0
+        }
+    },
+    "53": {
+        "C_CHR087": {
+            "default_face": "C_CHR087_FC1",
+            "face": "FC_CHR998",
+            "cutin": "C087",
+            "cutin_id": -1
+        }
+    }
+}

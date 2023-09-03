@@ -87,12 +87,12 @@ def randomize_master_quartz(
 
             effect_data = list()
             for i, ability in enumerate(abilities):
-                if str(ability) in master_quartz_abilities_data[i]:
-                    ability_data = master_quartz_abilities_data[i][str(ability)][level - 1]
-                elif str(ability) in master_quartz_abilities_data[(i + 1) % 3]:
-                    ability_data = master_quartz_abilities_data[(i + 1) % 3][str(ability)][level - 1]
+                if str(ability) in master_quartz_abilities_data[0]:
+                    ability_data = master_quartz_abilities_data[0][str(ability)][level - 1]
+                elif str(ability) in master_quartz_abilities_data[1]:
+                    ability_data = master_quartz_abilities_data[1][str(ability)][level - 1]
                 else:
-                    ability_data = master_quartz_abilities_data[(i + 2) % 3][str(ability)][level - 1]
+                    ability_data = master_quartz_abilities_data[2][str(ability)][level - 1]
                 effect_data.extend(ability_data)
             entry["effect_data"] = effect_data
             entry["memoes"] = [-1] * 9
