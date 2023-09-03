@@ -8,7 +8,24 @@ Randomizer for Trails into Reverie
 - Arts Randomizer
 - Brave Order Randomizer
 - Master Quartz Randomizer
-- Chest Randomizer (**EXPERIMENTAL**)
+- Chest Randomizer
+- Model Randomizer (**EXPERIMENTAL**)
+
+## Known Issues
+
+If you encounter an issue, please make an issue or contact me directly. Please also include your seed and any other information to help with debugging
+
+### Craft Randomizer
+
+- Some self buff animations can cause unintended effects or crash the game
+  - Crashing: Sara
+  - Weird Interaction: Randy
+- Rufus and Wazy's absorbtion crafts spawn errors and do weird things but otherwise do not affect gameplay
+- Some crafts just do not work
+
+### Model Randomizer
+
+- Some models are stretch or squished depends on the character. While I try to minimize the effects, it cannot be fixed completely
 
 ## Upcoming Features
 
