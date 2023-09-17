@@ -9,6 +9,7 @@ from frames.experimental import ExperimentalFrame
 from frames.generalinfo import GeneralInfoFrame
 from frames.magic import CraftRandomizerFrame
 from frames.masterquartz import MasterQuartzRandomizerFrame
+from frames.orbment import OrbmentRandomizerFrame
 
 
 class App(tkinter.Tk):
@@ -26,6 +27,7 @@ class App(tkinter.Tk):
 
         CraftRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
         MasterQuartzRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
+        OrbmentRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
         ExperimentalFrame(self.randomizers).pack(expand=True, fill="both")
 
         self.randomize_button = ttk.Button(self, text="Randomize!", command=self.randomize)
