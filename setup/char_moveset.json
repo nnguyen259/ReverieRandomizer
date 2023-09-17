@@ -2196,26 +2196,6 @@
         ]
     },
     "32": {
-        "AniBtlCraft00": [
-            [
-                5200,
-                32,
-                0,
-                1,
-                0,
-                "AniBtlCraft00",
-                "Bloody Fang"
-            ],
-            [
-                5210,
-                32,
-                0,
-                0,
-                0,
-                "AniBtlCraft00",
-                "Bloody Sharp Fang"
-            ]
-        ],
         "AniBtlCraft01": [
             [
                 5201,
@@ -2755,26 +2735,6 @@
                 "AniBtlCraft01",
                 "Deadly Heaven χ"
             ]
-        ],
-        "AniBtlCraft02": [
-            [
-                6702,
-                41,
-                0,
-                1,
-                1,
-                "AniBtlCraft02",
-                "Septenary Shot"
-            ],
-            [
-                6712,
-                41,
-                0,
-                0,
-                1,
-                "AniBtlCraft02",
-                "Septenary Shot 2"
-            ]
         ]
     },
     "42": {
@@ -3074,26 +3034,6 @@
         ]
     },
     "44": {
-        "AniBtlCraft00": [
-            [
-                6100,
-                44,
-                0,
-                1,
-                1,
-                "AniBtlCraft00",
-                "Soul Eater"
-            ],
-            [
-                6110,
-                44,
-                0,
-                120,
-                1,
-                "AniBtlCraft00",
-                "Soul Eater 2"
-            ]
-        ],
         "AniBtlCraft01": [
             [
                 6101,

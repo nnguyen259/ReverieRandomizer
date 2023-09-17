@@ -45,6 +45,7 @@ def randomize_craft(seed: str, directory: Path):
             else:
                 old_base = moves[0]
                 base = solo.pop()
+                animation = animation if "_" not in animation else animation[:-2]
                 result[f"{base[0]}_{base[2]}"] = (old_base[0], old_base[1], old_base[2], old_base[3], old_base[4], animation)
                 result_text[character].append(f"{old_base[-1]} -> {base[-1]}")
 
