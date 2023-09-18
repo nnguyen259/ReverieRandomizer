@@ -1681,26 +1681,6 @@
     ],
     [
         [
-            5200,
-            32,
-            0,
-            1,
-            0,
-            "AniBtlCraft00",
-            "Bloody Fang"
-        ],
-        [
-            5210,
-            32,
-            0,
-            0,
-            0,
-            "AniBtlCraft00",
-            "Bloody Sharp Fang"
-        ]
-    ],
-    [
-        [
             5201,
             32,
             0,
@@ -2201,26 +2181,6 @@
     ],
     [
         [
-            6702,
-            41,
-            0,
-            1,
-            1,
-            "AniBtlCraft02",
-            "Septenary Shot"
-        ],
-        [
-            6712,
-            41,
-            0,
-            0,
-            1,
-            "AniBtlCraft02",
-            "Septenary Shot 2"
-        ]
-    ],
-    [
-        [
             6800,
             42,
             0,
@@ -2437,26 +2397,6 @@
             4,
             "AniBtlCraft04",
             "Supreme Bladelord Specter"
-        ]
-    ],
-    [
-        [
-            6100,
-            44,
-            0,
-            1,
-            1,
-            "AniBtlCraft00",
-            "Soul Eater"
-        ],
-        [
-            6110,
-            44,
-            0,
-            120,
-            1,
-            "AniBtlCraft00",
-            "Soul Eater 2"
         ]
     ],
     [
