@@ -5,7 +5,7 @@ from multiprocessing import freeze_support
 from pathlib import Path
 from tkinter import filedialog, messagebox, ttk
 
-from frames.experimental import ExperimentalFrame
+from frames.misc import MiscFrame
 from frames.generalinfo import GeneralInfoFrame
 from frames.magic import CraftRandomizerFrame
 from frames.masterquartz import MasterQuartzRandomizerFrame
@@ -28,7 +28,7 @@ class App(tkinter.Tk):
         CraftRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
         MasterQuartzRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
         OrbmentRandomizerFrame(self.randomizers).pack(expand=True, fill="both")
-        ExperimentalFrame(self.randomizers).pack(expand=True, fill="both")
+        MiscFrame(self.randomizers).pack(expand=True, fill="both")
 
         self.randomize_button = ttk.Button(self, text="Randomize!", command=self.randomize)
         self.randomize_button.grid(row=2, column=0, pady=10)

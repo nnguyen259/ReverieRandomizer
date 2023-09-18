@@ -4,12 +4,22 @@ Randomizer for Trails into Reverie
 
 ## Current Features
 
+### Randomizers
+
 - Craft Randomizer
 - Arts Randomizer
 - Brave Order Randomizer
 - Master Quartz Randomizer
 - Chest Randomizer
-- Model Randomizer (**EXPERIMENTAL**)
+- Model Randomizer
+- Orbment Line Randomizer
+
+### Other Features
+
+- Orbment Slot Unlock Cost Modifier
+- Quartz Trade Sepith Cost Modifier
+- Every TRC Character Available From Stratum 1
+- Increase Stat and Size Variation for Most Enemies
 
 ## Known Issues
 
@@ -17,11 +27,7 @@ If you encounter an issue, please make an issue or contact me directly. Please a
 
 ### Craft Randomizer
 
-- Some self buff animations can cause unintended effects or crash the game
-  - Crashing: Sara
-  - Weird Interaction: Randy
-- Rufus and Wazy's absorbtion crafts spawn errors and do weird things but otherwise do not affect gameplay
-- Some crafts just do not work
+- Some self buff animations can cause unintended effects or crash the game. If you come across any, please log an issue.
 
 ### Model Randomizer
 
@@ -29,10 +35,7 @@ If you encounter an issue, please make an issue or contact me directly. Please a
 
 ## Upcoming Features
 
-- Orbment Line Randomizer (Priority: High)
-- Stats & Enemies (Priority: Medium)
-- Model Randomizer (Priority: Low)
-- If you have any feature request please open an issue or contact me directly
+- Adding more models into the pool
 
 ## Special Thanks
 

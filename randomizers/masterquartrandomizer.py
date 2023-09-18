@@ -41,6 +41,11 @@ def randomize_master_quartz(
         local_random.shuffle(skill_2)
         local_random.shuffle(skill_3)
 
+        if selection_mode == "shuffle":
+            skill_1 = set(skill_1)
+            skill_2 = set(skill_2)
+            skill_3 = set(skill_3)
+
         for _ in range(len(skill_ids)):
             if selection_mode == "shuffle":
                 new_skill_ids.append([skill_1.pop(), skill_2.pop(), skill_3.pop()])
@@ -53,6 +58,9 @@ def randomize_master_quartz(
         skills.extend(skill_2)
         skills.extend(skill_3)
         local_random.shuffle(skills)
+
+        if selection_mode == "shuffle":
+            skills = set(skills)
 
         for _ in range(len(skill_ids)):
             if selection_mode == "shuffle":
